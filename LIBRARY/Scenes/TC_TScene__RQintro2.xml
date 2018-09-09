@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro2" itemID="5b957002-00000b38" lastModified="1536520194">
+  <timeline>
+    <DOMTimeline name="TC_TScene__RQintro2">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="S_placeanobject" fontRenderingMode="standard" left="-833.35" width="1836.45" height="144.4" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-84.85" ty="-465.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>We will place an object into a graduated cylinder &#xD;filled with water. </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="71.2" size="55" bitmapSize="1100" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/TC_TObject__DroppingBall">
+                  <matrix>
+                    <Matrix tx="-40" ty="126.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

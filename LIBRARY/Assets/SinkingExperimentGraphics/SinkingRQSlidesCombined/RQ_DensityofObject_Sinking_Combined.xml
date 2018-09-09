@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/SinkingExperimentGraphics/SinkingRQSlidesCombined/RQ_DensityofObject_Sinking_Combined" itemID="5abd2547-0000011e" lastModified="1536357561" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="RQ_DensityofObject_Sinking_Combined">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/CylinderAssets/Cylinderbaseback" centerPoint3DX="194.6" centerPoint3DY="188.1">
+                  <matrix>
+                    <Matrix a="1.21142578125" tx="194.6" ty="188.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/Cylinder_Leadsphere_small" selected="true">
+                  <matrix>
+                    <Matrix tx="-232.25" ty="-14.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/Cylinder_glasssphere_small" selected="true">
+                  <matrix>
+                    <Matrix tx="173.55" ty="-14.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,58 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/SinkingExperimentGraphics/CylinderCombined_LargeSphereOutline" itemID="5abd157d-00000348" lastModified="1522341245" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="CylinderCombined_LargeSphereOutline">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!536 -299S2[536 -226 484 -175!484 -175[433 -124 360 -124!360 -124[288 -124 237 -175!237 -175[185 -226 185 -299!185 -299[185 -372 237 -423!237 -423[288 -474 360 -474!360 -474[433 -474 484 -423!484 -423[536 -372 536 -299"/>
+                    <Edge cubics="!237 -423(;271,-457 312,-474 360,-474q237 -423Q288 -474q360 -474);"/>
+                    <Edge cubics="!360 -124(;312,-124 271,-141 237,-175q360 -124Q288 -124q237 -175);"/>
+                    <Edge cubics="!185 -299(;185,-348 202,-389 237,-423q185 -299Q185 -372q237 -423);"/>
+                    <Edge cubics="!237 -175(;202,-209 185,-250 185,-299q237 -175Q185 -226q185 -299);"/>
+                    <Edge cubics="!484 -423(;519,-389 536,-348 536,-299q484 -423Q536 -372q536 -299);"/>
+                    <Edge cubics="!484 -175(;450,-141 409,-124 360,-124q484 -175Q433 -124q360 -124);"/>
+                    <Edge cubics="!536 -299(;536,-250 519,-209 484,-175q536 -299Q536 -226q484 -175);"/>
+                    <Edge cubics="!360 -474(;409,-474 450,-457 484,-423q360 -474Q433 -474q484 -423);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/CylinderAssets/Cylinderbaseback" selected="true" centerPoint3DX="21.05" centerPoint3DY="203.05">
+                  <matrix>
+                    <Matrix a="1.21142578125" tx="21.05" ty="203.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/CCylinder" selected="true">
+                  <matrix>
+                    <Matrix a="1.336669921875" d="1.34471130371094"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/Spheres/Sphere_OutlineLarge" selected="true">
+                  <matrix>
+                    <Matrix tx="16.05" ty="-10"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

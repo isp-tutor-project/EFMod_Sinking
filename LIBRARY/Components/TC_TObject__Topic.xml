@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Topic" itemID="5b957032-00000b41" lastModified="1536520242">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Topic">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/SaltWaterAssets/CSaltWaterCylinder" selected="true">
+                      <matrix>
+                        <Matrix a="2.32218933105469" d="2.32218933105469" tx="146.75" ty="377.35"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="0.05" y="0.1"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/Spheres/SmallSphere_Glass" selected="true" centerPoint3DX="172.75" centerPoint3DY="346.9">
+                      <matrix>
+                        <Matrix a="2.34994506835938" d="2.34994506835938" tx="172.65" ty="346.7"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="0.05" y="0.1"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

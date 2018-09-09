@@ -1,0 +1,54 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/SinkingExperimentGraphics/CCylinderNoSaltWater" itemID="5abd0d8d-000001b6" lastModified="1522339213" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="CCylinderNoSaltWater">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#66FFFF" alpha="0.247058823529412"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-515 3146S1[-451 3157 -410 3148!-410 3148|-520 3144!-520 3144[-523 3144 -527 3144!-527 3144[-522 3145 -515 3146!-541 3140|-541 3141!-541 3141[-538.1875 3141 -535.5 3142!-535.5 3142[-538.1875 #C44.F -541 3140"/>
+                    <Edge cubics="!-410 3148(;-447,3147 -483,3146 -520,3144q-410 3148 -520 3144);"/>
+                    <Edge cubics="!-541 3141(;-541,3141 -541,3140 -541,3140q-541 3141 -541 3140);"/>
+                    <Edge cubics="!-520 3144(;-523,3144 -524,3144 -527,3144q-520 3144Q-523 3144q-527 3144);"/>
+                    <Edge cubics="!-527 3144(;-523,3145 -520,3145 -515,3146q-527 3144Q-522 3145q-515 3146);"/>
+                    <Edge cubics="!-515 3146(;-472,3154 -437,3155 -410,3148q-515 3146Q-451 3157q-410 3148);"/>
+                    <Edge cubics="!-541 3141(;-539,3141 -537,3141 -535,3142q-541 3141Q-538 3141q-535 3142);"/>
+                    <Edge cubics="!-535 3142(;-537,3141 -539,3141 -541,3140q-535 3142Q-538 3141q-541 3140);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/CylinderAssets/Cylinderbaseback" selected="true" centerPoint3DX="13.85" centerPoint3DY="151.6">
+                  <matrix>
+                    <Matrix tx="13.85" ty="151.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/NoSaltWater-DistilledAssets/DistilledWater" selected="true">
+                  <matrix>
+                    <Matrix tx="13.25" ty="22.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/CCylinder" selected="true">
+                  <transformationPoint>
+                    <Point y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

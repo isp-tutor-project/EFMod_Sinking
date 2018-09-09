@@ -1,0 +1,54 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/SinkingGraphics/Spheres copy/SmallSphere_Glass" itemID="5a284b66-000000b2" lastModified="1512590182">
+  <timeline>
+    <DOMTimeline name="SmallSphere_Glass">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0107421875" d="0.0107421875" ty="-0.05"/>
+                        </matrix>
+                        <GradientEntry color="#155F6B" alpha="0.788235294117647" ratio="0"/>
+                        <GradientEntry color="#F40B28" alpha="0.972549019607843" ratio="0.152941176470588"/>
+                        <GradientEntry color="#7739D0" alpha="0.627450980392157" ratio="0.211764705882353"/>
+                        <GradientEntry color="#FF071A" ratio="0.274509803921569"/>
+                        <GradientEntry color="#FF4863" alpha="0.4" ratio="0.4"/>
+                        <GradientEntry color="#7533D2" alpha="0.631372549019608" ratio="0.486274509803922"/>
+                        <GradientEntry color="#C8F68F" alpha="0.8" ratio="0.576470588235294"/>
+                        <GradientEntry color="#4F00ED" alpha="0.749019607843137" ratio="0.670588235294118"/>
+                        <GradientEntry color="#F1F025" alpha="0.423529411764706" ratio="0.717647058823529"/>
+                        <GradientEntry color="#FD192C" alpha="0.415686274509804" ratio="0.83921568627451"/>
+                        <GradientEntry color="#F2DB37" alpha="0.423529411764706" ratio="0.886274509803922"/>
+                        <GradientEntry color="#FB7F89" alpha="0.427450980392157" ratio="0.933333333333333"/>
+                        <GradientEntry color="#F7FFFF" alpha="0.447058823529412" ratio="1"/>
+                        <GradientEntry ratio="1"/>
+                        <GradientEntry color="#F4C64A" alpha="0.423529411764706" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#FF0000"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!176 0S6[176 73 124 124!124 124[73 175 0 175!0 175[-72 175 -123 124!-123 124[-175 73 -175 0!-175 0[-175 -73 -123 -124!-123 -124[-72 -175 0 -175!0 -175[73 -175 124 -124!124 -124[176 -73 176 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

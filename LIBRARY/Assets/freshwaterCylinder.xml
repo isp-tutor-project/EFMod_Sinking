@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/freshwaterCylinder" itemID="5b92f51c-00001d3c" lastModified="1536357660">
+  <timeline>
+    <DOMTimeline name="freshwaterCylinder">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/CCylinderNoSaltWater" selected="true">
+                  <matrix>
+                    <Matrix a="2.32218933105469" d="2.32218933105469" tx="146.75" ty="377.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/NoSaltWater-DistilledAssets/CNoSaltSign" selected="true">
+                  <matrix>
+                    <Matrix a="2.29025268554688" d="2.29025268554688" tx="435.95" ty="658.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

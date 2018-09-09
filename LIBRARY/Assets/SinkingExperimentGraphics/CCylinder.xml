@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/SinkingExperimentGraphics/CCylinder" itemID="5b92bd51-00000c98" lastModified="1512589588">
+  <timeline>
+    <DOMTimeline name="CCylinder">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/CylinderAssets/CylinderGlass" selected="true">
+                  <matrix>
+                    <Matrix tx="8.55" ty="10.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.15" y="-0.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/CylinderAssets/CylinderGraduations" selected="true">
+                  <matrix>
+                    <Matrix tx="41.55" ty="18.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/CylinderAssets/cylinderglasshighlights" selected="true">
+                  <matrix>
+                    <Matrix tx="-6.25" ty="-4.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="4.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/CylinderAssets/cylinderbase" selected="true">
+                  <matrix>
+                    <Matrix tx="13.5" ty="154.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/CylinderAssets/cylinderbasegloss" selected="true">
+                  <matrix>
+                    <Matrix tx="15.75" ty="155.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

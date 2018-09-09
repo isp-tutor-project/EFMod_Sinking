@@ -1,0 +1,1419 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Movie" itemID="5b95702e-00000b40" lastModified="1536520238">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Movie" currentFrame="104">
+      <layers>
+        <DOMLayer name="STOP" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="rimofcylinder" color="#00FFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="293" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!5663 2033[5355 2119 4941 2119!4941 2119[4469 2119 4135 2007!4135 2007[4040 1976 3973 1941"/>
+                    <Edge cubics="!5663 2033(;5458,2090 5217,2119 4941,2119q5663 2033Q5355 2119q4941 2119);"/>
+                    <Edge cubics="!4941 2119(;4626,2119 4358,2082 4135,2007q4941 2119Q4469 2119q4135 2007);"/>
+                    <Edge cubics="!4135 2007(;4072,1986 4018,1964 3973,1941q4135 2007Q4040 1976q3973 1941);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="timeseconds" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="18" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="-33" width="108" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="409.5" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>     0.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" duration="11" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="30.65" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="433.4" ty="305.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>1.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="3" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="30.65" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="433.4" ty="305.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>2.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="30.65" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="433.4" ty="305.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>2.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" duration="26" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="30.65" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="433.4" ty="305.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>2.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="30.65" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="433.4" ty="305.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>3.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="60" duration="231" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="30.65" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="433.4" ty="305.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>3.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="time" color="#FF800A" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="14.15" width="55.3" height="21.65" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="410.9" ty="304.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>      </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" face="Silom" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>00</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 01</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 02</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 03</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 04</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 05</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 06</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 07</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 08</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 10</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 11</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 12</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 13</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 15</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 16</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 17</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 18</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 19</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 20</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 30</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 40</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 50</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 59</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 00</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 01</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 02</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 03</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 04</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 05</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="35" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 06</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 07</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="37" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 08</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="38" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 09</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 11</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="40" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 12</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="41" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 13</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 15</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="43" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 16</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 17</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="45" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 18</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="46" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 19</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="47" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 20</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="48" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 30</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 40</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="50" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 50</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="51" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 51</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="52" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 52</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="53" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 53</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 54</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="55" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 55</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="56" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 56</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="57" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 58</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 59</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 00</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="60" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 00</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="61" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 01</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="62" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 02</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="63" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 03</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" duration="227" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="411.7" ty="305.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 04</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="21.25" size="19" bitmapSize="380" face="PTMono-Bold" fillColor="#1DA67E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="timestamps" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="291" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="67.3" height="8.9" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="410.5" ty="322.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>                </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="6.7" size="6" bitmapSize="120" face="Skia-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>   sec./   ms</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="8.9" size="8" bitmapSize="160" face="Skia-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="stopwatch" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="291" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/Cclock">
+                  <matrix>
+                    <Matrix a="0.520050048828125" d="0.520050048828125" tx="444" ty="327.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="handlettinggo" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" duration="286" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/handforstopwatch">
+                  <matrix>
+                    <Matrix tx="249" ty="43.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hand" color="#FF0000" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/HandDroppingBall">
+                  <matrix>
+                    <Matrix tx="249.6" ty="86.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="cylinder" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="286" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.078125" d="0.0274810791015625" tx="232.8" ty="88.05"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.498039215686275" ratio="0.549019607843137"/>
+                        <GradientEntry color="#F7FFFF" alpha="0.447058823529412" ratio="1"/>
+                        <GradientEntry ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.056365966796875" d="0.01983642578125" tx="237.45" ty="100.05"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.247058823529412" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.247058823529412" ratio="0.141176470588235"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.498039215686275" ratio="0.47843137254902"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.498039215686275" ratio="0.552941176470588"/>
+                        <GradientEntry color="#F7FFFF" alpha="0.447058823529412" ratio="1"/>
+                        <GradientEntry ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!4072 1328[4340 1334 4608 1339!4608 1339|3377 1340!3377 1340|3377 1311!3377 1311[3726 1321 4072 1328"/>
+                    <Edge fillStyle1="2" edges="!4117 2225[4086 2183 4060 2154!4060 2154|4060 2144!4060 2144[4068 2146 4076 2147!4076 2147[4352 2203 4702 2228!4702 2228[#12BB.BB #8BA.FA 4928 2241!4928 2241|4129.5 2241!4129.5 2241[#101B.A5 #8B9.4E 4117 2225"/>
+                    <Edge cubics="!5525 2371(;5501,2371 5477,2371 5446,2370q5525 2371 5446 2370);"/>
+                    <Edge cubics="!5279 2368(;5222,2367 5165,2366 5108,2366q5279 2368 5108 2366);"/>
+                    <Edge cubics="!5108 2366(;5014,2365 4921,2364 4829,2369q5108 2366Q4908 2364q4829 2369);"/>
+                    <Edge cubics="!4829 2369(;4758,2373 4688,2382 4617,2381q4829 2369Q4758 2374q4723 2377Q4661 2382q4617 2381);"/>
+                    <Edge cubics="!4232 2362(;4222,2362 4205,2364 4188,2367q4232 2362 4188 2367);"/>
+                    <Edge cubics="!5694 2368(;5657,2371 5600,2372 5525,2371q5694 2368Q5638 2372q5525 2371);"/>
+                    <Edge cubics="!5709 2367(;5704,2368 5699,2368 5694,2368q5709 2367Q5701 2368q5694 2368);"/>
+                    <Edge cubics="!4188 2367(;4184,2368 4180,2368 4177,2368q4188 2367Q4182 2368q4177 2368);"/>
+                    <Edge cubics="!5597 7554(;5623,7551 5647,7549 5670,7546q5597 7554 5670 7546);"/>
+                    <Edge cubics="!5670 7546(;5684,7545 5698,7544 5709,7552q5670 7546Q5699 7545q5709 7552);"/>
+                    <Edge cubics="!4580 7554(;4671,7560 4760,7564 4849,7566q4580 7554 4849 7566);"/>
+                    <Edge cubics="!4849 7566(;4923,7568 4997,7567 5071,7567q4849 7566Q4886 7567q5071 7567);"/>
+                    <Edge cubics="!5446 7548(;5484,7543 5520,7537 5555,7530q5446 7548 5555 7530);"/>
+                    <Edge cubics="!5555 7530(;5565,7528 5575,7527 5584,7531q5555 7530Q5573 7527q5584 7531);"/>
+                    <Edge cubics="!4188 7631(;4182,7626 4177,7620 4175,7611q4188 7631Q4179 7624q4175 7611);"/>
+                    <Edge cubics="!4177 7533(;4179,7529 4181,7527 4183,7524q4177 7533Q4180 7527q4183 7524);"/>
+                    <Edge cubics="!4195 7641(;4194,7639 4193,7636 4192,7633q4195 7641Q4194 7638q4192 7633);"/>
+                    <Edge cubics="!4192 7633(;4191,7633 4189,7632 4188,7631q4192 7633Q4190 7632q4188 7631);"/>
+                    <Edge cubics="!5584 7531(;5590,7535 5595,7542 5597,7554q5584 7531Q5593 7536q5597 7554);"/>
+                    <Edge cubics="!4196 7643(;4196,7642 4196,7642 4195,7641q4196 7643Q4196 7642q4195 7641);"/>
+                    <Edge cubics="!4175 7611(;4174,7623 4174,7634 4175,7643q4175 7611Q4173 7629q4175 7643);"/>
+                    <Edge cubics="!4175 7643(;4175,7643 4196,7643 4196,7643q4175 7643 4196 7643);"/>
+                    <Edge cubics="!3377 1311(;3610,1318 3843,1323 4072,1328q3377 1311 4072 1328);"/>
+                    <Edge cubics="!4072 1328(;4251,1332 4429,1336 4608,1339q4072 1328Q4340 1334q4608 1339);"/>
+                    <Edge cubics="!3377 1340(;3377,1340 3377,1311 3377,1311q3377 1340 3377 1311);"/>
+                    <Edge cubics="!3377 1340(;3377,1340 4608,1339 4608,1339q3377 1340 4608 1339);"/>
+                    <Edge cubics="!5315 7626(;5291,7626 5279,7614 5279,7590q5315 7626Q5279 7626q5279 7590);"/>
+                    <Edge cubics="!5446 7590(;5446,7614 5435,7626 5411,7626q5446 7590Q5446 7626q5411 7626);"/>
+                    <Edge cubics="!5411 7626(;5411,7626 5315,7626 5315,7626q5411 7626 5315 7626);"/>
+                    <Edge cubics="!5334 2255(;5202,2252 5069,2248 4928,2241q5334 2255 4928 2241);"/>
+                    <Edge cubics="!4928 2241(;4648,2229 4359,2205 4076,2147q4928 2241 4702 2228Q4352 2203q4076 2147);"/>
+                    <Edge cubics="!4117 2225(;4133,2245 4150,2267 4160,2291q4117 2225Q4149 2265q4160 2291);"/>
+                    <Edge cubics="!4232 7625(;4349,7630 4466,7635 4580,7639q4232 7625 4580 7639);"/>
+                    <Edge cubics="!5645 2326(;5642,2326 5640,2326 5638,2326q5645 2326Q5641 2326q5638 2326);"/>
+                    <Edge cubics="!5645 2326(;5645,2326 5655,2253 5655,2253q5645 2326 5655 2253);"/>
+                    <Edge cubics="!5655 2253(;5612,2256 5564,2258 5513,2258q5655 2253Q5590 2258q5513 2258);"/>
+                    <Edge cubics="!5638 2326(;5638,2326 5446,2326 5446,2326q5638 2326 5446 2326);"/>
+                    <Edge cubics="!5513 2258(;5478,2258 5419,2257 5334,2255q5513 2258Q5461 2258q5334 2255);"/>
+                    <Edge cubics="!5446 2326(;5446,2326 5279,2326 5279,2326q5446 2326 5279 2326);"/>
+                    <Edge cubics="!4232 2326(;4232,2326 4171,2326 4171,2326q4232 2326 4171 2326);"/>
+                    <Edge cubics="!4160 2291(;4165,2300 4168,2312 4171,2326q4160 2291Q4167 2305q4171 2326);"/>
+                    <Edge cubics="!4580 2326(;4580,2326 4232,2326 4232,2326q4580 2326 4232 2326);"/>
+                    <Edge cubics="!5279 2326(;5279,2326 4580,2326 4580,2326q5279 2326 4580 2326);"/>
+                    <Edge cubics="!4060 2144(;4060,2144 4060,2154 4060,2154q4060 2144 4060 2154);"/>
+                    <Edge cubics="!4076 2147(;4071,2147 4065,2145 4060,2144q4076 2147Q4068 2146q4060 2144);"/>
+                    <Edge cubics="!4060 2154(;4077,2173 4097,2197 4117,2225q4060 2154Q4086 2183q4117 2225);"/>
+                    <Edge cubics="!5446 2326(;5446,2326 5446,2370 5446,2370q5446 2326 5446 2370);"/>
+                    <Edge cubics="!5446 7548(;5446,7548 5446,7590 5446,7590q5446 7548 5446 7590);"/>
+                    <Edge cubics="!5279 2368(;5279,2368 5279,2326 5279,2326q5279 2368 5279 2326);"/>
+                    <Edge cubics="!4580 2326(;4580,2326 4580,2379 4580,2379q4580 2326 4580 2379);"/>
+                    <Edge cubics="!4580 7554(;4580,7554 4580,7639 4580,7639q4580 7554 4580 7639);"/>
+                    <Edge cubics="!4617 2381(;4611,2381 4599,2380 4580,2379q4617 2381Q4608 2381q4580 2379);"/>
+                    <Edge cubics="!4232 2362(;4232,2362 4232,2326 4232,2326q4232 2362 4232 2326);"/>
+                    <Edge cubics="!4183 7524(;4191,7515 4207,7512 4232,7513q4183 7524Q4195 7511q4232 7513);"/>
+                    <Edge cubics="!4232 7625(;4232,7625 4232,7513 4232,7513q4232 7625 4232 7513);"/>
+                    <Edge cubics="!5279 7590(;5279,7590 5279,7566 5279,7566q5279 7590 5279 7566);"/>
+                    <Edge cubics="!5071 7567(;5071,7567 5279,7566 5279,7566q5071 7567 5279 7566);"/>
+                    <Edge cubics="!4177 2368(;4177,2368 4177,5221 4177,5221q4177 2368 4177 5221);"/>
+                    <Edge cubics="!4177 5221(;4177,5221 4177,7533 4177,7533q4177 5221 4177 7533);"/>
+                    <Edge cubics="!4580 2379(;4580,2379 4580,5221 4580,5221q4580 2379 4580 5221);"/>
+                    <Edge cubics="!4580 5221(;4580,5221 4580,7554 4580,7554q4580 5221 4580 7554);"/>
+                    <Edge cubics="!4232 7513(;4232,7513 4232,5221 4232,5221q4232 7513 4232 5221);"/>
+                    <Edge cubics="!4232 5221(;4232,5221 4232,2362 4232,2362q4232 5221 4232 2362);"/>
+                    <Edge cubics="!5446 2370(;5446,2370 5446,5221 5446,5221q5446 2370 5446 5221);"/>
+                    <Edge cubics="!5446 5221(;5446,5221 5446,7548 5446,7548q5446 5221 5446 7548);"/>
+                    <Edge cubics="!5279 7566(;5279,7566 5279,5221 5279,5221q5279 7566 5279 5221);"/>
+                    <Edge cubics="!5279 5221(;5279,5221 5279,2368 5279,2368q5279 5221 5279 2368);"/>
+                    <Edge cubics="!5709 7552(;5709,7552 5709,2367 5709,2367q5709 7552 5709 2367);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/NewCylinderwithWater" centerPoint3DX="232.1" centerPoint3DY="228.05">
+                  <matrix>
+                    <Matrix tx="232.1" ty="228.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.15" y="-0.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="sphere" color="#FF4F4F" locked="true" autoNamed="false" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" duration="291" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="4194303" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="24000" Version="1" duration="291000"><TimeMap strength="0" type="Quadratic"/><TimeMap strength="3" type="DampedWave"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.498575" xformPtYOffsetPct="0.5" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property TimeMapIndex="1" enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="1000"/><Keyframe anchor="0,0" next="8555,0" previous="-1717,0" roving="0" timevalue="4000"/><Keyframe anchor="0,-1.4" next="0,-1.4" previous="0,-1.4" roving="0" timevalue="64000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="1000"/><Keyframe anchor="0,24.1014" next="8555,24.1014" previous="-1717,24.1014" roving="0" timevalue="4000"/><Keyframe anchor="0,262.7" next="0,262.7" previous="0,262.7" roving="0" timevalue="64000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="1000"/></Property><Property enabled="1" id="Depth" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="1000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="1000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="1000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="1000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="1000"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/Spheres copy/SmallSphere_Glass">
+                  <matrix>
+                    <Matrix tx="246.45" ty="116.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="cylinderbase" color="#00FFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="291" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/CylinderAssets/Cylinderbaseback">
+                  <matrix>
+                    <Matrix tx="247.05" ty="380"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

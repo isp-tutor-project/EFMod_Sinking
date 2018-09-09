@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro5" itemID="5b95700d-00000b3b" lastModified="1536520205">
+  <timeline>
+    <DOMTimeline name="TC_TScene__RQintro5">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/TC_TObject_ballatbottom">
+                  <matrix>
+                    <Matrix tx="-33.25" ty="81"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="S_sinktobottom2" selected="true" fontRenderingMode="standard" left="-297.2" width="1832.45" height="71.2" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-619" ty="-469.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>It will sink to the bottom. </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="71.2" size="55" bitmapSize="1100" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

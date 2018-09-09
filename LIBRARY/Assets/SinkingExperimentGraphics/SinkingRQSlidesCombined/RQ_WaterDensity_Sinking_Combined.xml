@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/SinkingExperimentGraphics/SinkingRQSlidesCombined/RQ_WaterDensity_Sinking_Combined" itemID="5abd0e43-000001d1" lastModified="1536343334" lastUniqueIdentifier="8">
+  <timeline>
+    <DOMTimeline name="RQ_WaterDensity_Sinking_Combined">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/SaltWaterAssets/CSaltWaterCylinder">
+                  <matrix>
+                    <Matrix a="2.32218933105469" d="2.32218933105469" tx="393.1" ty="-102.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/CCylinderNoSaltWater">
+                  <matrix>
+                    <Matrix a="2.32218933105469" d="2.32218933105469" tx="-508.15" ty="-113.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/SaltWaterAssets/saltshaker">
+                  <matrix>
+                    <Matrix a="2.3197021484375" d="2.3197021484375" tx="622.3" ty="160.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/NoSaltWater-DistilledAssets/CNoSaltSign">
+                  <matrix>
+                    <Matrix a="2.29025268554688" d="2.29025268554688" tx="-218.95" ty="167.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

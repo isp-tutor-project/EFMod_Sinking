@@ -1,0 +1,216 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 115" majorVersion="18" buildNumber="115" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="8927091D547A30DADEC29278A6AEC965">
+     <folders>
+          <DOMFolderItem name="____componentassets____" itemID="5ad28523-00000243"/>
+          <DOMFolderItem name="_HTMLControls" itemID="5b6f4063-000003e9"/>
+          <DOMFolderItem name="_HTMLControls/TC_THtmlInput__Assets" itemID="5b5cd7d8-000002da"/>
+          <DOMFolderItem name="_HTMLControls/TC_THtmlList__Assets" itemID="5b5cea4b-000003ab"/>
+          <DOMFolderItem name="_HTMLControls/TC_THtmlTable__Assets" itemID="5b5f40d8-000002e3"/>
+          <DOMFolderItem name="_HTMLControls/TC_THtmlText__Assets" itemID="5b5cd7c7-000002d7"/>
+          <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48"/>
+          <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9"/>
+          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e"/>
+          <DOMFolderItem name="Assets/SinkingExperimentGraphics" itemID="5abd05fb-00000049"/>
+          <DOMFolderItem name="Assets/SinkingExperimentGraphics/CylinderAssets" itemID="5b92bd51-00000c64"/>
+          <DOMFolderItem name="Assets/SinkingExperimentGraphics/NoSaltWater-DistilledAssets" itemID="5abd0d0a-000001a4"/>
+          <DOMFolderItem name="Assets/SinkingExperimentGraphics/SaltWaterAssets" itemID="5abd0d5a-000001b2"/>
+          <DOMFolderItem name="Assets/SinkingExperimentGraphics/SinkingRQSlidesCombined" itemID="5afadd86-00000303"/>
+          <DOMFolderItem name="Assets/SinkingExperimentGraphics/Spheres" itemID="5a284b12-000000a9"/>
+          <DOMFolderItem name="Assets/SinkingExperimentGraphics/TearDrops" itemID="5a284c73-000000dc"/>
+          <DOMFolderItem name="Assets/SinkingGraphics" itemID="5afae96e-000002ce"/>
+          <DOMFolderItem name="Assets/SinkingGraphics/CylinderAssets" itemID="5a284863-0000002f"/>
+          <DOMFolderItem name="Assets/SinkingGraphics/Spheres" itemID="5afae7e5-000002c2"/>
+          <DOMFolderItem name="Assets/SinkingGraphics/Spheres copy" itemID="5afaf4cd-000005ca"/>
+          <DOMFolderItem name="Assets/SinkingGraphics/Spheres/Spheres copy" itemID="5afaf25c-000004ab"/>
+          <DOMFolderItem name="Components" itemID="5b92f439-00001cca" isExpanded="true"/>
+          <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f" isExpanded="true"/>
+          <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
+          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="____componentassets____/TutorModule" itemID="5ad39ecb-000002ce" sourceLastImported="1512163249" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="____componentassets____/TutorModule.png" bitmapDataHRef="M 3 1523818176.dat" frameLeft="140" frameTop="1720" frameRight="780" frameBottom="2360"/>
+     </media>
+     <symbols>
+          <Include href="_HTMLControls/TC_THtmlInput__Assets/InputContainer.xml" loadImmediate="false" itemID="5b633487-0000051f" lastModified="1533228563"/>
+          <Include href="_HTMLControls/TC_THtmlInput__Input1.xml" loadImmediate="false" itemID="5b633529-0000053e" lastModified="1533228606"/>
+          <Include href="_HTMLControls/TC_THtmlList__Assets/listbox.xml" loadImmediate="false" itemID="5b5cea34-000003a3" lastModified="1533050789"/>
+          <Include href="_HTMLControls/TC_THtmlList__List1.xml" loadImmediate="false" itemID="5b5f91b5-00000346" lastModified="1533225790"/>
+          <Include href="_HTMLControls/TC_THtmlList1__CustomList1.xml" loadImmediate="false" itemID="5b707bd7-000006c8" lastModified="1534618188"/>
+          <Include href="_HTMLControls/TC_THtmlTable__Assets/tablearea.xml" loadImmediate="false" itemID="5b5f40c1-000002dc" lastModified="1533050778"/>
+          <Include href="_HTMLControls/TC_THtmlTable__Table1.xml" loadImmediate="false" itemID="5b5f91bf-00000347" lastModified="1534019420"/>
+          <Include href="_HTMLControls/TC_THtmlText__Assets/TextArea.xml" loadImmediate="false" itemID="5b59ef22-00000313" lastModified="1533575923"/>
+          <Include href="_HTMLControls/TC_THtmlText__Text1.xml" loadImmediate="false" itemID="5b5f91c5-00000348" lastModified="1533575928"/>
+          <Include href="_Tutor Global Assets_/NavPanel Components/contentFrame.xml" loadImmediate="false" itemID="5b8db279-000005f6" lastModified="1536012921"/>
+          <Include href="_Tutor Global Assets_/SceneRegion.xml" loadImmediate="false" itemID="5ad4e5af-00000a3e" lastModified="1536514559"/>
+          <Include href="_Tutor Global Assets_/TC_TVirtual__SceneRgn.xml" loadImmediate="false" itemID="5b7745af-0000037b" lastModified="1536518598"/>
+          <Include href="_Tutor Global Assets_/TutorModule.xml" loadImmediate="false" itemID="5ad39eb8-000002c4" lastModified="1523818168"/>
+          <Include href="Assets/freshwaterCylinder.xml" loadImmediate="false" itemID="5b92f51c-00001d3c" lastModified="1536357660"/>
+          <Include href="Assets/saltwaterCylinder.xml" loadImmediate="false" itemID="5b92f524-00001d3e" lastModified="1536357995"/>
+          <Include href="Assets/SinkingExperimentGraphics/CCylinder.xml" loadImmediate="false" itemID="5b92bd51-00000c98" lastModified="1512589588"/>
+          <Include href="Assets/SinkingExperimentGraphics/CCylinderNoSaltWater.xml" loadImmediate="false" itemID="5abd0d8d-000001b6" lastModified="1522339213"/>
+          <Include href="Assets/SinkingExperimentGraphics/CCylinderTearDrop.xml" loadImmediate="false" itemID="5abd12f4-000002a6" lastModified="1522340596"/>
+          <Include href="Assets/SinkingExperimentGraphics/Cylinder_glasssphere_small.xml" loadImmediate="false" itemID="5abd24e9-00000108" lastModified="1522345193"/>
+          <Include href="Assets/SinkingExperimentGraphics/Cylinder_Leadsphere_small.xml" loadImmediate="false" itemID="5abd24d6-000000f9" lastModified="1522345174"/>
+          <Include href="Assets/SinkingExperimentGraphics/Cylinder_SphereShape.xml" loadImmediate="false" itemID="5abd1311-000002b6" lastModified="1522340625"/>
+          <Include href="Assets/SinkingExperimentGraphics/CylinderAssets/cylinderbase.xml" loadImmediate="false" itemID="5b92bd51-00000c9c" lastModified="1512589349"/>
+          <Include href="Assets/SinkingExperimentGraphics/CylinderAssets/Cylinderbaseback.xml" loadImmediate="false" itemID="5b92bd51-00000c97" lastModified="1512589697"/>
+          <Include href="Assets/SinkingExperimentGraphics/CylinderAssets/cylinderbasegloss.xml" loadImmediate="false" itemID="5b92bd51-00000c9d" lastModified="1512589366"/>
+          <Include href="Assets/SinkingExperimentGraphics/CylinderAssets/CylinderGlass.xml" loadImmediate="false" itemID="5b92bd51-00000c99" lastModified="1513109194"/>
+          <Include href="Assets/SinkingExperimentGraphics/CylinderAssets/cylinderglasshighlights.xml" loadImmediate="false" itemID="5b92bd51-00000c9b" lastModified="1512589441"/>
+          <Include href="Assets/SinkingExperimentGraphics/CylinderAssets/CylinderGraduations.xml" loadImmediate="false" itemID="5b92bd51-00000c9a" lastModified="1512589473"/>
+          <Include href="Assets/SinkingExperimentGraphics/CylinderCombined_LargeSphereOutline.xml" loadImmediate="false" itemID="5abd157d-00000348" lastModified="1522341245"/>
+          <Include href="Assets/SinkingExperimentGraphics/NoSaltWater-DistilledAssets/CNoSaltSign.xml" loadImmediate="false" itemID="5a285127-0000021a" lastModified="1528816567"/>
+          <Include href="Assets/SinkingExperimentGraphics/NoSaltWater-DistilledAssets/DistilledWater.xml" loadImmediate="false" itemID="5abd07e6-0000015d" lastModified="1522337766"/>
+          <Include href="Assets/SinkingExperimentGraphics/SaltWaterAssets/CSaltWaterCylinder.xml" loadImmediate="false" itemID="5abd082a-00000161" lastModified="1522337834"/>
+          <Include href="Assets/SinkingExperimentGraphics/SaltWaterAssets/saltshaker.xml" loadImmediate="false" itemID="5a28479f-00000010" lastModified="1528816603"/>
+          <Include href="Assets/SinkingExperimentGraphics/SaltWaterAssets/SaltWater.xml" loadImmediate="false" itemID="5abd0791-00000159" lastModified="1522337681"/>
+          <Include href="Assets/SinkingExperimentGraphics/SinkingRQSlidesCombined/RQ_DensityofObject_Sinking_Combined.xml" loadImmediate="false" itemID="5abd2547-0000011e" lastModified="1536357561"/>
+          <Include href="Assets/SinkingExperimentGraphics/SinkingRQSlidesCombined/RQ_ShapeofObject_Sinking_Combined.xml" loadImmediate="false" itemID="5abd13b6-000002ea" lastModified="1536357576"/>
+          <Include href="Assets/SinkingExperimentGraphics/SinkingRQSlidesCombined/RQ_VolumeofObject_Sinking_Combined.xml" loadImmediate="false" itemID="5abd1617-00000364" lastModified="1536357597"/>
+          <Include href="Assets/SinkingExperimentGraphics/SinkingRQSlidesCombined/RQ_WaterDensity_Sinking_Combined.xml" loadImmediate="false" itemID="5abd0e43-000001d1" lastModified="1536343334"/>
+          <Include href="Assets/SinkingExperimentGraphics/Spheres/SmallSphere_Glass.xml" loadImmediate="false" itemID="5b92bd51-00000c74" lastModified="1512590182"/>
+          <Include href="Assets/SinkingExperimentGraphics/Spheres/SmallSphere_Lead.xml" loadImmediate="false" itemID="5a284ba6-000000b4" lastModified="1512590246"/>
+          <Include href="Assets/SinkingExperimentGraphics/Spheres/Sphere_Outline.xml" loadImmediate="false" itemID="5abd10e7-00000283" lastModified="1522340072"/>
+          <Include href="Assets/SinkingExperimentGraphics/Spheres/Sphere_OutlineLarge.xml" loadImmediate="false" itemID="5abd153d-00000341" lastModified="1522341181"/>
+          <Include href="Assets/SinkingExperimentGraphics/TearDrops/Tearshape_outline.xml" loadImmediate="false" itemID="5abd11a0-0000028f" lastModified="1522340257"/>
+          <Include href="Assets/SinkingGraphics/Bluearrow.xml" loadImmediate="false" itemID="5af59db1-000003d2" lastModified="1526046287"/>
+          <Include href="Assets/SinkingGraphics/Cclock.xml" loadImmediate="false" itemID="5a2af90f-000000fe" lastModified="1526396188"/>
+          <Include href="Assets/SinkingGraphics/CylinderAssets/CCylinder.xml" loadImmediate="false" itemID="5a284914-00000046" lastModified="1512589588"/>
+          <Include href="Assets/SinkingGraphics/CylinderAssets/cylinderbase.xml" loadImmediate="false" itemID="5a284825-0000001a" lastModified="1512589349"/>
+          <Include href="Assets/SinkingGraphics/CylinderAssets/Cylinderbaseback.xml" loadImmediate="false" itemID="5a284981-00000059" lastModified="1512589697"/>
+          <Include href="Assets/SinkingGraphics/CylinderAssets/cylinderbasegloss.xml" loadImmediate="false" itemID="5a284836-0000001f" lastModified="1512589366"/>
+          <Include href="Assets/SinkingGraphics/CylinderAssets/CylinderGlass.xml" loadImmediate="false" itemID="5a2848b1-00000039" lastModified="1513109194"/>
+          <Include href="Assets/SinkingGraphics/CylinderAssets/cylinderglasshighlights.xml" loadImmediate="false" itemID="5a284881-00000031" lastModified="1512589441"/>
+          <Include href="Assets/SinkingGraphics/CylinderAssets/CylinderGraduations.xml" loadImmediate="false" itemID="5a2848a1-00000035" lastModified="1512589473"/>
+          <Include href="Assets/SinkingGraphics/CylinderAssets/Cylinderline.xml" loadImmediate="false" itemID="5afae8fc-000002c7" lastModified="1526393084"/>
+          <Include href="Assets/SinkingGraphics/HandDroppingBall.xml" loadImmediate="false" itemID="5a284761-00000005" lastModified="1512589154"/>
+          <Include href="Assets/SinkingGraphics/handforstopwatch.xml" loadImmediate="false" itemID="5a2afca9-00000138" lastModified="1512766633"/>
+          <Include href="Assets/SinkingGraphics/NewCylinderwithWater.xml" loadImmediate="false" itemID="5a9ffcff-00000244" lastModified="1520434431"/>
+          <Include href="Assets/SinkingGraphics/Spheres copy/SmallSphere_Glass.xml" loadImmediate="false" itemID="5a284b66-000000b2" lastModified="1512590182"/>
+          <Include href="Assets/SinkingGraphics/Spheres/Spheres copy/LargeSphere_Glass.xml" loadImmediate="false" itemID="5a284b6c-000000b3" lastModified="1512590188"/>
+          <Include href="Assets/SinkingGraphics/Spheres/Spheres copy/LargeSphere_Lead.xml" loadImmediate="false" itemID="5a284bf3-000000cd" lastModified="1512590324"/>
+          <Include href="Assets/SinkingGraphics/TC_TObject__DroppingBall.xml" loadImmediate="false" itemID="5afae9a9-000002d2" lastModified="1526393257"/>
+          <Include href="Assets/SinkingGraphics/TC_TObject_ballatbottom.xml" loadImmediate="false" itemID="5afaeb7a-00000308" lastModified="1526393722"/>
+          <Include href="Assets/SinkingGraphics/TC_TObject_Ballfalling.xml" loadImmediate="false" itemID="5afaea00-000002e4" lastModified="1526393344"/>
+          <Include href="Assets/SinkingGraphics/TC_TObject_Ballmiddle.xml" loadImmediate="false" itemID="5afaea97-000002f6" lastModified="1526393495"/>
+          <Include href="Assets/SinkingGraphics/WaterCombinedMaterials.xml" loadImmediate="false" itemID="5afaf32b-000004b3" lastModified="1526395691"/>
+          <Include href="Components/TC_TObject__Movie.xml" loadImmediate="false" itemID="5b95702e-00000b40" lastModified="1536520238"/>
+          <Include href="Components/TC_TObject__Topic.xml" loadImmediate="false" itemID="5b957032-00000b41" lastModified="1536520242"/>
+          <Include href="Components/TC_TObject__Vars.xml" loadImmediate="false" itemID="5b957037-00000b42" lastModified="1536520247"/>
+          <Include href="Exports/TL_Sinking__Movie.xml" loadImmediate="false" itemID="5b95703c-00000b43" lastModified="1536520252"/>
+          <Include href="Exports/TL_Sinking__RQintro1.xml" loadImmediate="false" itemID="5b95881e-00000fa0" lastModified="1536526366"/>
+          <Include href="Exports/TL_Sinking__RQintro2.xml" loadImmediate="false" itemID="5b95882e-00000fa9" lastModified="1536526382"/>
+          <Include href="Exports/TL_Sinking__RQintro3.xml" loadImmediate="false" itemID="5b958834-00000faf" lastModified="1536526388"/>
+          <Include href="Exports/TL_Sinking__RQintro4.xml" loadImmediate="false" itemID="5b95883c-00000fb5" lastModified="1536526396"/>
+          <Include href="Exports/TL_Sinking__RQintro5.xml" loadImmediate="false" itemID="5b958842-00000fbb" lastModified="1536526402"/>
+          <Include href="Exports/TL_Sinking__RQintro6.xml" loadImmediate="false" itemID="5b958847-00000fc1" lastModified="1536526407"/>
+          <Include href="Exports/TL_Sinking__RQmaterials.xml" loadImmediate="false" itemID="5b958821-00000fa1" lastModified="1536526369"/>
+          <Include href="Exports/TL_Sinking__RQmovie.xml" loadImmediate="false" itemID="5b958824-00000fa2" lastModified="1536526372"/>
+          <Include href="Exports/TL_Sinking__RQvariables.xml" loadImmediate="false" itemID="5b958828-00000fa3" lastModified="1536526376"/>
+          <Include href="Exports/TL_Sinking__Topic.xml" loadImmediate="false" itemID="5b957041-00000b44" lastModified="1536520257"/>
+          <Include href="Exports/TL_Sinking__Vars.xml" loadImmediate="false" itemID="5b957046-00000b45" lastModified="1536520262"/>
+          <Include href="Scenes/TC_TScene__RQintro1.xml" loadImmediate="false" itemID="5b956fff-00000b37" lastModified="1536520191"/>
+          <Include href="Scenes/TC_TScene__RQintro2.xml" loadImmediate="false" itemID="5b957002-00000b38" lastModified="1536520194"/>
+          <Include href="Scenes/TC_TScene__RQintro3.xml" loadImmediate="false" itemID="5b957005-00000b39" lastModified="1536520197"/>
+          <Include href="Scenes/TC_TScene__RQintro4.xml" loadImmediate="false" itemID="5b957009-00000b3a" lastModified="1536520201"/>
+          <Include href="Scenes/TC_TScene__RQintro5.xml" loadImmediate="false" itemID="5b95700d-00000b3b" lastModified="1536520205"/>
+          <Include href="Scenes/TC_TScene__RQintro6.xml" loadImmediate="false" itemID="5b957011-00000b3c" lastModified="1536520209"/>
+          <Include href="Scenes/TC_TScene__RQmaterials.xml" loadImmediate="false" itemID="5b95701c-00000b3e" lastModified="1536520220"/>
+          <Include href="Scenes/TC_TScene__RQmovie.xml" loadImmediate="false" itemID="5b9585d5-00000eda" lastModified="1536525826"/>
+          <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b957024-00000b3f" lastModified="1536520228"/>
+          <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Actions" color="#00FFFF" locked="true" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Framescript language="JavaScript">
+                                        <script><![CDATA[stop();]]></script>
+                                   </Framescript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Scene Bounds" color="#FF00FF" locked="true" outline="true" useOutlineView="true" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/SceneRegion">
+                                             <transformationPoint>
+                                                  <Point x="959.95" y="600"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Module Content" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Module Component" color="#00FFFF" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMComponentInstance libraryItemName="_Tutor Global Assets_/TutorModule" uniqueID="1">
+                                             <matrix>
+                                                  <Matrix tx="910" ty="550"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="50" y="50"/>
+                                             </transformationPoint>
+                                             <parametersAsXML><![CDATA[   <property id="compositionID">
+      <Inspectable name="compositionID" variable="compositionID" category="" verbose="0" defaultValue="8927091D547A30DADEC29278A6AEC965" type="String"/>
+   </property>
+   <property id="__ComponentType__">
+      <Inspectable name="__ComponentType__" variable="__ComponentType__" category="" verbose="0" defaultValue="1" type="Number"/>
+   </property>
+]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts>
+          <GlobalScripts language="Javascript"/>
+     </scripts>
+     <persistentData>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

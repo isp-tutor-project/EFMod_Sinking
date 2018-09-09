@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/SinkingExperimentGraphics/Spheres/Sphere_Outline" itemID="5abd10e7-00000283" lastModified="1522340072">
+  <timeline>
+    <DOMTimeline name="Sphere_Outline">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2.2">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!176 0S4[176 73 124 124!124 124[73 175 0 175!0 175[-72 175 -123 124!-123 124[-175 73 -175 0!-175 0[-175 -73 -123 -124!-123 -124[-72 -175 0 -175!0 -175[73 -175 124 -124!124 -124[176 -73 176 0"/>
+                    <Edge cubics="!0 -175(;49,-175 90,-158 124,-124q0 -175Q73 -175q124 -124);"/>
+                    <Edge cubics="!176 0(;176,49 159,90 124,124q176 0Q176 73q124 124);"/>
+                    <Edge cubics="!124 124(;90,158 49,175 0,175q124 124Q73 175q0 175);"/>
+                    <Edge cubics="!124 -124(;159,-90 176,-49 176,0q124 -124Q176 -73q176 0);"/>
+                    <Edge cubics="!-123 124(;-158,90 -175,49 -175,0q-123 124Q-175 73q-175 0);"/>
+                    <Edge cubics="!-175 0(;-175,-49 -158,-90 -123,-124q-175 0Q-175 -73q-123 -124);"/>
+                    <Edge cubics="!0 175(;-48,175 -89,158 -123,124q0 175Q-72 175q-123 124);"/>
+                    <Edge cubics="!-123 -124(;-89,-158 -48,-175 0,-175q-123 -124Q-72 -175q0 -175);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

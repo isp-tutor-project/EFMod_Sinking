@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Exports/TL_Sinking__Movie" itemID="5b95703c-00000b43" lastModified="1536520252">
+  <timeline>
+    <DOMTimeline name="TL_Sinking__Movie">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="327.1" objectHeight="339.05" x="0" y="0" selected="true" lockFlag="true">
+                  <matrix>
+                    <Matrix a="1.00015258789063"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#0000FF"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

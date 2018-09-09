@@ -1,0 +1,63 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/SinkingGraphics/TC_TObject_ballatbottom" itemID="5afaeb7a-00000308" lastModified="1526393722">
+  <timeline>
+    <DOMTimeline name="TC_TObject_ballatbottom">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2.5">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!934 -3647S4[777 -3638 613 -3635"/>
+                    <Edge cubics="!934 -3647(;830,-3641 723,-3637 613,-3635q934 -3647 613 -3635);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/Spheres copy/SmallSphere_Glass" selected="true" centerPoint3DX="22.75" centerPoint3DY="342.25">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="22.7" ty="342.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/HandDroppingBall" selected="true" centerPoint3DX="33.35" centerPoint3DY="-307.55">
+                  <matrix>
+                    <Matrix a="1.93185424804688" b="-0.517608642578125" c="0.517608642578125" d="1.93185424804688" tx="33.3" ty="-307.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/CylinderAssets/Cylinderline" selected="true" centerPoint3DX="26.95" centerPoint3DY="-182.45">
+                  <matrix>
+                    <Matrix a="0.9993896484375" b="0.0348968505859375" c="-0.0348968505859375" d="0.9993896484375" tx="26.95" ty="-182.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/NewCylinderwithWater" selected="true" centerPoint3DY="65.2">
+                  <matrix>
+                    <Matrix a="2" d="2" ty="65.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

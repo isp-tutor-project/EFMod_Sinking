@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/SinkingExperimentGraphics/SinkingRQSlidesCombined/RQ_VolumeofObject_Sinking_Combined" itemID="5abd1617-00000364" lastModified="1536357597" lastUniqueIdentifier="10">
+  <timeline>
+    <DOMTimeline name="RQ_VolumeofObject_Sinking_Combined">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/Cylinder_SphereShape" selected="true">
+                  <matrix>
+                    <Matrix a="1.75" d="1.75" tx="-384.4" ty="-40.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/CylinderCombined_LargeSphereOutline" selected="true">
+                  <matrix>
+                    <Matrix a="1.75" d="1.75" tx="325.7" ty="-40.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
