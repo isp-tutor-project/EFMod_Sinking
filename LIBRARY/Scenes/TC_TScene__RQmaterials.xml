@@ -1,4 +1,7 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQmaterials" itemID="5b95701c-00000b3e" lastModified="1536520220" lastUniqueIdentifier="9">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQmaterials" itemID="5b95701c-00000b3e" linkageExportForAS="true" linkageClassName="TC_TScene__RQmaterials" lastModified="1537048420" lastUniqueIdentifier="9">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
   <timeline>
     <DOMTimeline name="TC_TScene__RQmaterials">
       <layers>
@@ -8,7 +11,7 @@
               <elements>
                 <DOMDynamicText name="S_var_herearematerials" fontRenderingMode="standard" left="-892.65" width="1836.45" height="64.7" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="-45.55" ty="-421.45"/>
+                    <Matrix tx="937.3" ty="146.65"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -19,49 +22,49 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/Cclock" centerPoint3DX="-482.45" centerPoint3DY="-105.8">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/Cclock" centerPoint3DX="522.85" centerPoint3DY="478.4">
                   <matrix>
-                    <Matrix a="1.5" d="1.5" tx="-482.45" ty="-105.8"/>
+                    <Matrix a="1.34742736816406" d="1.34742736816406" tx="522.85" ty="478.35"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="0.05"/>
+                    <Point x="0.05" y="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/CylinderAssets/CCylinder" centerPoint3DX="48.9" centerPoint3DY="-5.6">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/CylinderAssets/CCylinder" centerPoint3DX="1000.15" centerPoint3DY="568.4">
                   <matrix>
-                    <Matrix a="2" d="2" tx="48.9" ty="-5.6"/>
+                    <Matrix a="1.79656982421875" d="1.79656982421875" tx="1000.15" ty="568.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="0.1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/Spheres/Spheres copy/LargeSphere_Lead" centerPoint3DX="-584.4" centerPoint3DY="292.75">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/Spheres/Spheres copy/LargeSphere_Lead" centerPoint3DX="431.25" centerPoint3DY="836.4">
                   <matrix>
-                    <Matrix a="2" d="2" tx="-584.45" ty="292.75"/>
+                    <Matrix a="1.79656982421875" d="1.79656982421875" tx="431.2" ty="836.35"/>
                   </matrix>
                   <transformationPoint>
-                    <Point/>
+                    <Point x="0.05" y="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/Spheres/Spheres copy/LargeSphere_Glass" centerPoint3DX="-447.75" centerPoint3DY="292.6">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/Spheres/Spheres copy/LargeSphere_Glass" centerPoint3DX="554" centerPoint3DY="836.25">
                   <matrix>
-                    <Matrix a="2" d="2" tx="-447.8" ty="292.6"/>
+                    <Matrix a="1.79656982421875" d="1.79656982421875" tx="553.95" ty="836.25"/>
                   </matrix>
                   <transformationPoint>
-                    <Point/>
+                    <Point x="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/WaterCombinedMaterials" centerPoint3DX="632.45" centerPoint3DY="53.15">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/WaterCombinedMaterials" centerPoint3DX="1524.35" centerPoint3DY="621.15">
                   <matrix>
-                    <Matrix tx="632.45" ty="53.15"/>
+                    <Matrix a="0.898284912109375" d="0.898284912109375" tx="1524.3" ty="621.15"/>
                   </matrix>
                   <transformationPoint>
-                    <Point/>
+                    <Point x="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
                 <DOMDynamicText name="S_stopwatch" fontRenderingMode="standard" left="-33.1" width="210.2" height="51.75" autoExpand="true" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="-554.75" ty="65.15"/>
+                    <Matrix a="0.898284912109375" d="0.898284912109375" tx="457.9" ty="631.9"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -74,7 +77,7 @@
                 </DOMDynamicText>
                 <DOMDynamicText name="S_objects" fontRenderingMode="standard" left="-110.85" width="365.7" height="51.75" autoExpand="true" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="-581.25" ty="342.7"/>
+                    <Matrix a="0.898284912109375" d="0.898284912109375" tx="434.1" ty="881.25"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -87,7 +90,7 @@
                 </DOMDynamicText>
                 <DOMDynamicText name="S_graduatedcylinder" fontRenderingMode="standard" left="-32.25" width="208.5" height="105.5" autoExpand="true" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="5.5" ty="326.85"/>
+                    <Matrix a="0.898284912109375" d="0.898284912109375" tx="961.15" ty="867"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -100,7 +103,7 @@
                 </DOMDynamicText>
                 <DOMDynamicText name="S_saltwater" fontRenderingMode="standard" left="-14.95" width="173.9" height="51.75" autoExpand="true" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="557" ty="-216.35"/>
+                    <Matrix a="0.898284912109375" d="0.898284912109375" tx="1456.55" ty="379.05"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -113,7 +116,7 @@
                 </DOMDynamicText>
                 <DOMDynamicText name="S_or" fontRenderingMode="standard" left="54.15" width="35.7" height="51.75" autoExpand="true" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="551.65" ty="43.25"/>
+                    <Matrix a="0.898284912109375" d="0.898284912109375" tx="1451.75" ty="612.25"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -126,7 +129,7 @@
                 </DOMDynamicText>
                 <DOMDynamicText name="S_unsaltedwater" fontRenderingMode="standard" left="-57.2" width="258.4" height="51.75" autoExpand="true" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="560.5" ty="283.7"/>
+                    <Matrix a="0.898284912109375" d="0.898284912109375" tx="1459.7" ty="828.25"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -137,41 +140,53 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/Bluearrow" name="material_stopwatch" centerPoint3DX="-730.5" centerPoint3DY="-95.95">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/TC_TObject__arrow" name="Sarrow1" centerPoint3DX="300.05" centerPoint3DY="487.25">
                   <matrix>
-                    <Matrix a="-0.224945068359375" b="-0.974349975585938" c="0.974349975585938" d="-0.224945068359375" tx="-732.25" ty="-98.95"/>
+                    <Matrix a="-0.202056884765625" b="-0.875228881835938" c="0.875228881835938" d="-0.202056884765625" tx="298.45" ty="484.5"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="-3.45" y="1.05"/>
+                    <Point x="-3.5" y="1.1"/>
                   </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="15" blurY="15" color="#999999" distance="15" quality="2"/>
+                  </filters>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/Bluearrow" name="material_graduatedcylinder" centerPoint3DX="-102.65" centerPoint3DY="18.25">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/TC_TObject__arrow" name="Sarrow3" centerPoint3DX="864" centerPoint3DY="589.8">
                   <matrix>
-                    <Matrix a="-0.224945068359375" b="-0.974349975585938" c="0.974349975585938" d="-0.224945068359375" tx="-104.4" ty="15.25"/>
+                    <Matrix a="-0.202056884765625" b="-0.875228881835938" c="0.875228881835938" d="-0.202056884765625" tx="862.4" ty="587.1"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="-3.45" y="1.05"/>
+                    <Point x="-3.5" y="1.1"/>
                   </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="15" blurY="15" color="#999999" distance="15" quality="2"/>
+                  </filters>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/Bluearrow" name="material_water" centerPoint3DX="395.4" centerPoint3DY="40">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/TC_TObject__arrow" name="Sarrow4" centerPoint3DX="1311.4" centerPoint3DY="609.35">
                   <matrix>
-                    <Matrix a="-0.224945068359375" b="-0.974349975585938" c="0.974349975585938" d="-0.224945068359375" tx="393.65" ty="37"/>
+                    <Matrix a="-0.202056884765625" b="-0.875228881835938" c="0.875228881835938" d="-0.202056884765625" tx="1309.8" ty="606.65"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="-3.45" y="1.05"/>
+                    <Point x="-3.5" y="1.1"/>
                   </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="15" blurY="15" color="#999999" distance="15" quality="2"/>
+                  </filters>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/Bluearrow" name="material_leadorglassobject" centerPoint3DX="-730.5" centerPoint3DY="295.8">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/TC_TObject__arrow" name="Sarrow2" centerPoint3DX="300.05" centerPoint3DY="839.15">
                   <matrix>
-                    <Matrix a="-0.224945068359375" b="-0.974349975585938" c="0.974349975585938" d="-0.224945068359375" tx="-732.25" ty="292.8"/>
+                    <Matrix a="-0.202056884765625" b="-0.875228881835938" c="0.875228881835938" d="-0.202056884765625" tx="298.45" ty="836.4"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="-3.45" y="1.05"/>
+                    <Point x="-3.5" y="1.1"/>
                   </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="15" blurY="15" color="#999999" distance="15" quality="2"/>
+                  </filters>
                 </DOMSymbolInstance>
                 <DOMStaticText fontRenderingMode="standard" width="33.2" height="61.65" autoExpand="true" isSelectable="false">
                   <matrix>
-                    <Matrix tx="-510.65" ty="-162.4"/>
+                    <Matrix a="0.898284912109375" d="0.898284912109375" tx="497.5" ty="427.5"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -184,7 +199,7 @@
                 </DOMStaticText>
                 <DOMStaticText fontRenderingMode="standard" width="30.2" height="56" autoExpand="true" isSelectable="false">
                   <matrix>
-                    <Matrix tx="-484.3" ty="-160.4"/>
+                    <Matrix a="0.898284912109375" d="0.898284912109375" tx="521.15" ty="429.3"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -197,7 +212,7 @@
                 </DOMStaticText>
                 <DOMStaticText fontRenderingMode="standard" width="33.2" height="61.65" autoExpand="true" isSelectable="false">
                   <matrix>
-                    <Matrix tx="-460.65" ty="-163.4"/>
+                    <Matrix a="0.898284912109375" d="0.898284912109375" tx="542.4" ty="426.6"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -210,7 +225,7 @@
                 </DOMStaticText>
                 <DOMStaticText fontRenderingMode="standard" width="33.2" height="61.65" autoExpand="true" isSelectable="false">
                   <matrix>
-                    <Matrix tx="-427.3" ty="-163.4"/>
+                    <Matrix a="0.898284912109375" d="0.898284912109375" tx="572.35" ty="426.6"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -223,7 +238,7 @@
                 </DOMStaticText>
                 <DOMStaticText fontRenderingMode="standard" width="9.2" height="16.85" autoExpand="true" isSelectable="false">
                   <matrix>
-                    <Matrix tx="-483.9" ty="-113.15"/>
+                    <Matrix a="0.898284912109375" d="0.898284912109375" tx="521.5" ty="471.75"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -234,9 +249,9 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMStaticText selected="true" fontRenderingMode="standard" width="9.2" height="16.85" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="9.2" height="16.85" autoExpand="true" isSelectable="false">
                   <matrix>
-                    <Matrix tx="-475.2" ty="-113.15"/>
+                    <Matrix a="0.898284912109375" d="0.898284912109375" tx="529.35" ty="471.75"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -249,7 +264,7 @@
                 </DOMStaticText>
                 <DOMStaticText fontRenderingMode="standard" width="9.2" height="16.85" autoExpand="true" isSelectable="false">
                   <matrix>
-                    <Matrix tx="-465.2" ty="-113.15"/>
+                    <Matrix a="0.898284912109375" d="0.898284912109375" tx="538.3" ty="471.75"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -262,7 +277,7 @@
                 </DOMStaticText>
                 <DOMStaticText fontRenderingMode="standard" width="9.2" height="16.85" autoExpand="true" isSelectable="false">
                   <matrix>
-                    <Matrix tx="-456.5" ty="-113.15"/>
+                    <Matrix a="0.898284912109375" d="0.898284912109375" tx="546.15" ty="471.75"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -275,7 +290,7 @@
                 </DOMStaticText>
                 <DOMStaticText fontRenderingMode="standard" width="9.2" height="16.85" autoExpand="true" isSelectable="false">
                   <matrix>
-                    <Matrix tx="-451.55" ty="-113.15"/>
+                    <Matrix a="0.898284912109375" d="0.898284912109375" tx="550.6" ty="471.75"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -288,7 +303,7 @@
                 </DOMStaticText>
                 <DOMStaticText fontRenderingMode="standard" width="9.2" height="16.85" autoExpand="true" isSelectable="false">
                   <matrix>
-                    <Matrix tx="-440.85" ty="-113.15"/>
+                    <Matrix a="0.898284912109375" d="0.898284912109375" tx="560.2" ty="471.75"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -301,7 +316,7 @@
                 </DOMStaticText>
                 <DOMStaticText fontRenderingMode="standard" width="9.2" height="16.85" autoExpand="true" isSelectable="false">
                   <matrix>
-                    <Matrix tx="-432.85" ty="-113.15"/>
+                    <Matrix a="0.898284912109375" d="0.898284912109375" tx="567.4" ty="471.75"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -314,7 +329,7 @@
                 </DOMStaticText>
                 <DOMStaticText fontRenderingMode="standard" width="9.2" height="16.85" autoExpand="true" isSelectable="false">
                   <matrix>
-                    <Matrix tx="-424.9" ty="-113.15"/>
+                    <Matrix a="0.898284912109375" d="0.898284912109375" tx="574.5" ty="471.75"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -327,7 +342,7 @@
                 </DOMStaticText>
                 <DOMStaticText fontRenderingMode="standard" width="6.2" height="16.8" autoExpand="true" isSelectable="false">
                   <matrix>
-                    <Matrix tx="-415.2" ty="-113.15"/>
+                    <Matrix a="0.898284912109375" d="0.898284912109375" tx="583.25" ty="471.75"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -338,6 +353,19 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn">
+                  <transformationPoint>
+                    <Point x="960" y="600"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>

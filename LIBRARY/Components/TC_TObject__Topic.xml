@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Topic" itemID="5b957032-00000b41" lastModified="1536520242">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Topic" itemID="5b957032-00000b41" linkageExportForAS="true" linkageClassName="TC_TObject__Topic" lastModified="1537036774">
   <timeline>
     <DOMTimeline name="TC_TObject__Topic">
       <layers>

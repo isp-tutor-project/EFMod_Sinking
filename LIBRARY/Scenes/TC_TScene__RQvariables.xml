@@ -71,7 +71,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/Bluearrow" name="var_waterdensity">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/TC_TObject__arrow" name="var_waterdensity">
                   <matrix>
                     <Matrix a="-0.2176513671875" b="-0.873214721679688" c="0.873214721679688" d="-0.2176513671875" tx="-319.25" ty="-31.1"/>
                   </matrix>
@@ -79,7 +79,7 @@
                     <Point x="-3.4" y="1.1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/Bluearrow" name="var_shapeofobject">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/TC_TObject__arrow" name="var_shapeofobject">
                   <matrix>
                     <Matrix a="-0.2176513671875" b="-0.873214721679688" c="0.873214721679688" d="-0.2176513671875" tx="-316.25" ty="71.9"/>
                   </matrix>
@@ -87,7 +87,7 @@
                     <Point x="-3.4" y="1.1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/Bluearrow" name="var_volumeofobject">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/TC_TObject__arrow" name="var_volumeofobject">
                   <matrix>
                     <Matrix a="-0.2176513671875" b="-0.873214721679688" c="0.873214721679688" d="-0.2176513671875" tx="-319.85" ty="165.95"/>
                   </matrix>
@@ -95,7 +95,7 @@
                     <Point x="-3.4" y="1.1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/Bluearrow" name="var_densityofobject">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/TC_TObject__arrow" name="var_densityofobject">
                   <matrix>
                     <Matrix a="-0.2176513671875" b="-0.873214721679688" c="0.873214721679688" d="-0.2176513671875" tx="-321.65" ty="270.85"/>
                   </matrix>

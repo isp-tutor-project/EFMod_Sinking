@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro6" itemID="5b957011-00000b3c" lastModified="1536520209">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro6" itemID="5b957011-00000b3c" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro6" lastModified="1537036790">
   <timeline>
     <DOMTimeline name="TC_TScene__RQintro6">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/TC_TObject_ballatbottom" centerPoint3DX="-33.25" centerPoint3DY="74.4">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/TC_TObject__ballatbottom" centerPoint3DX="-33.25" centerPoint3DY="74.4">
                   <matrix>
                     <Matrix tx="-33.25" ty="74.4"/>
                   </matrix>
