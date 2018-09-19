@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/freshwaterCylinder" itemID="5b92f51c-00001d3c" lastModified="1536357660">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/TC_TObject__freshwaterCylinder" itemID="5ba169a8-00001fb7" lastModified="1537305000">
   <timeline>
-    <DOMTimeline name="freshwaterCylinder">
+    <DOMTimeline name="TC_TObject__freshwaterCylinder">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>

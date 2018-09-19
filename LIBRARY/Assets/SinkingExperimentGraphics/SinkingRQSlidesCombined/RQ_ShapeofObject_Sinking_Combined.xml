@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/CCylinderTearDrop" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/TC_TObject__CCylinderTearDrop" selected="true">
                   <matrix>
                     <Matrix a="1.75" d="1.75" tx="315.9" ty="-29.75"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <Point y="0.15"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/Cylinder_SphereShape" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/TC_TObject__Cylinder_SphereShape" selected="true">
                   <matrix>
                     <Matrix a="1.75" d="1.75" tx="-390.8" ty="-29.85"/>
                   </matrix>

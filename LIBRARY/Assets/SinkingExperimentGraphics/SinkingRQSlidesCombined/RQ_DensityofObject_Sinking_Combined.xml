@@ -14,7 +14,7 @@
                     <Point x="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/Cylinder_Leadsphere_small" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/TC_TObject__Cylinder_Leadsphere_small" selected="true">
                   <matrix>
                     <Matrix tx="-232.25" ty="-14.95"/>
                   </matrix>
@@ -22,7 +22,7 @@
                     <Point y="0.15"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/Cylinder_glasssphere_small" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/TC_TObject__Cylinder_glasssphere_small" selected="true">
                   <matrix>
                     <Matrix tx="173.55" ty="-14.95"/>
                   </matrix>

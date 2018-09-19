@@ -33,7 +33,7 @@
                     <Point x="50.3" y="50"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/TC_TObject__Vars" name="Sicon1">
+                <DOMSymbolInstance libraryItemName="Components/TC_TObject__Vars" name="Sicon1" selected="true">
                   <matrix>
                     <Matrix a="0.575271606445313" d="0.575271606445313" tx="694" ty="727.2"/>
                   </matrix>

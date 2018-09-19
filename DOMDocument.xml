@@ -47,21 +47,14 @@
           <Include href="_Tutor Global Assets_/SceneRegion.xml" loadImmediate="false" itemID="5ad4e5af-00000a3e" lastModified="1536514559"/>
           <Include href="_Tutor Global Assets_/TC_TVirtual__SceneRgn.xml" loadImmediate="false" itemID="5b7745af-0000037b" lastModified="1536518598"/>
           <Include href="_Tutor Global Assets_/TutorModule.xml" loadImmediate="false" itemID="5ad39eb8-000002c4" lastModified="1523818168"/>
-          <Include href="Assets/freshwaterCylinder.xml" loadImmediate="false" itemID="5b92f51c-00001d3c" lastModified="1536357660"/>
-          <Include href="Assets/saltwaterCylinder.xml" loadImmediate="false" itemID="5b92f524-00001d3e" lastModified="1536357995"/>
           <Include href="Assets/SinkingExperimentGraphics/CCylinder.xml" loadImmediate="false" itemID="5b92bd51-00000c98" lastModified="1512589588"/>
           <Include href="Assets/SinkingExperimentGraphics/CCylinderNoSaltWater.xml" loadImmediate="false" itemID="5abd0d8d-000001b6" lastModified="1522339213"/>
-          <Include href="Assets/SinkingExperimentGraphics/CCylinderTearDrop.xml" loadImmediate="false" itemID="5abd12f4-000002a6" lastModified="1522340596"/>
-          <Include href="Assets/SinkingExperimentGraphics/Cylinder_glasssphere_small.xml" loadImmediate="false" itemID="5abd24e9-00000108" lastModified="1522345193"/>
-          <Include href="Assets/SinkingExperimentGraphics/Cylinder_Leadsphere_small.xml" loadImmediate="false" itemID="5abd24d6-000000f9" lastModified="1522345174"/>
-          <Include href="Assets/SinkingExperimentGraphics/Cylinder_SphereShape.xml" loadImmediate="false" itemID="5abd1311-000002b6" lastModified="1522340625"/>
           <Include href="Assets/SinkingExperimentGraphics/CylinderAssets/cylinderbase.xml" loadImmediate="false" itemID="5b92bd51-00000c9c" lastModified="1512589349"/>
           <Include href="Assets/SinkingExperimentGraphics/CylinderAssets/Cylinderbaseback.xml" loadImmediate="false" itemID="5b92bd51-00000c97" lastModified="1512589697"/>
           <Include href="Assets/SinkingExperimentGraphics/CylinderAssets/cylinderbasegloss.xml" loadImmediate="false" itemID="5b92bd51-00000c9d" lastModified="1512589366"/>
           <Include href="Assets/SinkingExperimentGraphics/CylinderAssets/CylinderGlass.xml" loadImmediate="false" itemID="5b92bd51-00000c99" lastModified="1513109194"/>
           <Include href="Assets/SinkingExperimentGraphics/CylinderAssets/cylinderglasshighlights.xml" loadImmediate="false" itemID="5b92bd51-00000c9b" lastModified="1512589441"/>
           <Include href="Assets/SinkingExperimentGraphics/CylinderAssets/CylinderGraduations.xml" loadImmediate="false" itemID="5b92bd51-00000c9a" lastModified="1512589473"/>
-          <Include href="Assets/SinkingExperimentGraphics/CylinderCombined_LargeSphereOutline.xml" loadImmediate="false" itemID="5abd157d-00000348" lastModified="1522341245"/>
           <Include href="Assets/SinkingExperimentGraphics/NoSaltWater-DistilledAssets/CNoSaltSign.xml" loadImmediate="false" itemID="5a285127-0000021a" lastModified="1528816567"/>
           <Include href="Assets/SinkingExperimentGraphics/NoSaltWater-DistilledAssets/DistilledWater.xml" loadImmediate="false" itemID="5abd07e6-0000015d" lastModified="1522337766"/>
           <Include href="Assets/SinkingExperimentGraphics/SaltWaterAssets/CSaltWaterCylinder.xml" loadImmediate="false" itemID="5abd082a-00000161" lastModified="1522337834"/>
@@ -75,6 +68,11 @@
           <Include href="Assets/SinkingExperimentGraphics/Spheres/SmallSphere_Lead.xml" loadImmediate="false" itemID="5a284ba6-000000b4" lastModified="1512590246"/>
           <Include href="Assets/SinkingExperimentGraphics/Spheres/Sphere_Outline.xml" loadImmediate="false" itemID="5abd10e7-00000283" lastModified="1522340072"/>
           <Include href="Assets/SinkingExperimentGraphics/Spheres/Sphere_OutlineLarge.xml" loadImmediate="false" itemID="5abd153d-00000341" lastModified="1522341181"/>
+          <Include href="Assets/SinkingExperimentGraphics/TC_TObject__CCylinderTearDrop.xml" loadImmediate="false" itemID="5ba169c8-00001fba" lastModified="1537305032"/>
+          <Include href="Assets/SinkingExperimentGraphics/TC_TObject__Cylinder_glasssphere_small.xml" loadImmediate="false" itemID="5ba169d1-00001fbb" lastModified="1537305041"/>
+          <Include href="Assets/SinkingExperimentGraphics/TC_TObject__Cylinder_Leadsphere_small.xml" loadImmediate="false" itemID="5ba169d7-00001fbc" lastModified="1537305047"/>
+          <Include href="Assets/SinkingExperimentGraphics/TC_TObject__Cylinder_SphereShape.xml" loadImmediate="false" itemID="5ba169b9-00001fb9" lastModified="1537305017"/>
+          <Include href="Assets/SinkingExperimentGraphics/TC_TObject__CylinderCombined_LargeSphereOutline.xml" loadImmediate="false" itemID="5ba169b2-00001fb8" lastModified="1537305010"/>
           <Include href="Assets/SinkingExperimentGraphics/TearDrops/Tearshape_outline.xml" loadImmediate="false" itemID="5abd11a0-0000028f" lastModified="1522340257"/>
           <Include href="Assets/SinkingGraphics/Cclock.xml" loadImmediate="false" itemID="5a2af90f-000000fe" lastModified="1526396188"/>
           <Include href="Assets/SinkingGraphics/CylinderAssets/CCylinder.xml" loadImmediate="false" itemID="5a284914-00000046" lastModified="1512589588"/>
@@ -97,9 +95,11 @@
           <Include href="Assets/SinkingGraphics/TC_TObject__Ballmiddle.xml" loadImmediate="false" itemID="5b9d5351-000015ea" lastModified="1537037137"/>
           <Include href="Assets/SinkingGraphics/TC_TObject__DroppingBall.xml" loadImmediate="false" itemID="5afae9a9-000002d2" lastModified="1526393257"/>
           <Include href="Assets/SinkingGraphics/WaterCombinedMaterials.xml" loadImmediate="false" itemID="5afaf32b-000004b3" lastModified="1526395691"/>
+          <Include href="Assets/TC_TObject__freshwaterCylinder.xml" loadImmediate="false" itemID="5ba169a8-00001fb7" lastModified="1537305000"/>
+          <Include href="Assets/TC_TObject__saltwaterCylinder.xml" loadImmediate="false" itemID="5ba169a1-00001fb6" lastModified="1537304993"/>
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b95702e-00000b40" lastModified="1537036772"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b957032-00000b41" lastModified="1537036774"/>
-          <Include href="Components/TC_TObject__Vars.xml" itemID="5b957037-00000b42" lastModified="1537036777"/>
+          <Include href="Components/TC_TObject__Vars.xml" itemID="5b957037-00000b42" lastModified="1537305043"/>
           <Include href="Exports/TL_Sinking__Movie.xml" loadImmediate="false" itemID="5b95703c-00000b43" lastModified="1536520252"/>
           <Include href="Exports/TL_Sinking__RQintro1.xml" loadImmediate="false" itemID="5b95881e-00000fa0" lastModified="1536526366"/>
           <Include href="Exports/TL_Sinking__RQintro2.xml" loadImmediate="false" itemID="5b95882e-00000fa9" lastModified="1536526382"/>
@@ -120,7 +120,7 @@
           <Include href="Scenes/TC_TScene__RQintro5.xml" itemID="5b95700d-00000b3b" lastModified="1537036787"/>
           <Include href="Scenes/TC_TScene__RQintro6.xml" itemID="5b957011-00000b3c" lastModified="1537036790"/>
           <Include href="Scenes/TC_TScene__RQmaterials.xml" itemID="5b95701c-00000b3e" lastModified="1537048420"/>
-          <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b9585d5-00000eda" lastModified="1537124904"/>
+          <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b9585d5-00000eda" lastModified="1537304982"/>
           <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b957024-00000b3f" lastModified="1536520228"/>
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
      </symbols>

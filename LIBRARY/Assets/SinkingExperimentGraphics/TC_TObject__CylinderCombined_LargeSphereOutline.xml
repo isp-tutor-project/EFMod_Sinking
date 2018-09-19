@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/SinkingExperimentGraphics/Cylinder_SphereShape" itemID="5abd1311-000002b6" lastModified="1522340625" lastUniqueIdentifier="3">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/SinkingExperimentGraphics/TC_TObject__CylinderCombined_LargeSphereOutline" itemID="5ba169b2-00001fb8" lastModified="1537305010" lastUniqueIdentifier="3">
   <timeline>
-    <DOMTimeline name="Cylinder_SphereShape">
+    <DOMTimeline name="TC_TObject__CylinderCombined_LargeSphereOutline">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
@@ -24,7 +24,7 @@
                     <Edge cubics="!360 -474(;409,-474 450,-457 484,-423q360 -474Q433 -474q484 -423);"/>
                   </edges>
                 </DOMShape>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/CylinderAssets/Cylinderbaseback" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/CylinderAssets/Cylinderbaseback" selected="true" centerPoint3DX="21.05" centerPoint3DY="203.05">
                   <matrix>
                     <Matrix a="1.21142578125" tx="21.05" ty="203.05"/>
                   </matrix>
@@ -40,9 +40,9 @@
                     <Point y="0.15"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/Spheres/Sphere_Outline" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/Spheres/Sphere_OutlineLarge" selected="true">
                   <matrix>
-                    <Matrix tx="18" ty="-16.95"/>
+                    <Matrix tx="16.05" ty="-10"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>

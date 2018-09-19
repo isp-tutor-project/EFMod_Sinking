@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/Cylinder_SphereShape" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/TC_TObject__Cylinder_SphereShape" selected="true">
                   <matrix>
                     <Matrix a="1.75" d="1.75" tx="-384.4" ty="-40.7"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <Point x="-0.05" y="0.15"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/CylinderCombined_LargeSphereOutline" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/TC_TObject__CylinderCombined_LargeSphereOutline" selected="true">
                   <matrix>
                     <Matrix a="1.75" d="1.75" tx="325.7" ty="-40.7"/>
                   </matrix>

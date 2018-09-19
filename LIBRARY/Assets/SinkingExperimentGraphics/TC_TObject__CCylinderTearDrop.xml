@@ -1,20 +1,20 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/SinkingExperimentGraphics/Cylinder_Leadsphere_small" itemID="5abd24d6-000000f9" lastModified="1522345174">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/SinkingExperimentGraphics/TC_TObject__CCylinderTearDrop" itemID="5ba169c8-00001fba" lastModified="1537305032">
   <timeline>
-    <DOMTimeline name="Cylinder_Leadsphere_small">
+    <DOMTimeline name="TC_TObject__CCylinderTearDrop">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/CylinderAssets/Cylinderbaseback" centerPoint3DX="21.05" centerPoint3DY="203.05">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/CylinderAssets/Cylinderbaseback" selected="true">
                   <matrix>
-                    <Matrix a="1.21142578125" tx="21.05" ty="203.05"/>
+                    <Matrix a="1.21142578125" tx="20.15" ty="203"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/CCylinder">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/CCylinder" selected="true">
                   <matrix>
                     <Matrix a="1.336669921875" d="1.34471130371094"/>
                   </matrix>
@@ -22,12 +22,12 @@
                     <Point y="0.15"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/Spheres/SmallSphere_Lead" centerPoint3DX="13.9" centerPoint3DY="2.55">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/TearDrops/Tearshape_outline" selected="true">
                   <matrix>
-                    <Matrix a="1.0999755859375" d="1.0999755859375" tx="13.85" ty="2.5"/>
+                    <Matrix tx="17.45" ty="-16.6"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="0.05" y="0.05"/>
+                    <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>

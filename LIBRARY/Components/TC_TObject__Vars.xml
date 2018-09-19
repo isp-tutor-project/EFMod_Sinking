@@ -1,12 +1,12 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b957037-00000b42" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1537036777" lastUniqueIdentifier="2">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b957037-00000b42" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1537305043" lastUniqueIdentifier="2">
   <timeline>
     <DOMTimeline name="TC_TObject__Vars">
       <layers>
-        <DOMLayer name="Svar1b" color="#9933CC" autoNamed="false">
+        <DOMLayer name="Svar1b" color="#9933CC" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/saltwaterCylinder" name="Svar1b" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__saltwaterCylinder" name="Svar1b" selected="true">
                   <matrix>
                     <Matrix tx="-530.7" ty="-538.1"/>
                   </matrix>
@@ -18,11 +18,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar1a" color="#FF800A" autoNamed="false">
+        <DOMLayer name="Svar1a" color="#FF800A" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/freshwaterCylinder" name="Svar1a">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__freshwaterCylinder" name="Svar1a" selected="true">
                   <matrix>
                     <Matrix tx="-530.7" ty="-538.1"/>
                   </matrix>
@@ -34,11 +34,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar2b" color="#FF4FFF" autoNamed="false">
+        <DOMLayer name="Svar2b" color="#FF4FFF" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/CylinderCombined_LargeSphereOutline" name="Svar2b">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/TC_TObject__CylinderCombined_LargeSphereOutline" name="Svar2b" selected="true">
                   <matrix>
                     <Matrix a="1.75" d="1.75" tx="-382.85" ty="-155.75"/>
                   </matrix>
@@ -50,11 +50,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar2a" color="#009999" autoNamed="false">
+        <DOMLayer name="Svar2a" color="#009999" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/Cylinder_SphereShape" name="Svar2a">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/TC_TObject__Cylinder_SphereShape" name="Svar2a" selected="true">
                   <matrix>
                     <Matrix a="1.75" d="1.75" tx="-382.85" ty="-155.75"/>
                   </matrix>
@@ -66,11 +66,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar4a" color="#FF0000" autoNamed="false">
+        <DOMLayer name="Svar4a" color="#FF0000" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/Cylinder_SphereShape" name="Svar4a">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/TC_TObject__Cylinder_SphereShape" name="Svar4a" selected="true">
                   <matrix>
                     <Matrix a="1.75" d="1.75" tx="-382.85" ty="-155.75"/>
                   </matrix>
@@ -82,11 +82,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar4b" color="#669900" autoNamed="false">
+        <DOMLayer name="Svar4b" color="#669900" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/CCylinderTearDrop" name="Svar4b">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/TC_TObject__CCylinderTearDrop" name="Svar4b" selected="true">
                   <matrix>
                     <Matrix a="1.75" d="1.75" tx="-382.85" ty="-155.75"/>
                   </matrix>
@@ -98,11 +98,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar3a" color="#FF4F4F" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Svar3a" color="#FF4F4F" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/Cylinder_glasssphere_small" name="Svar3a" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/TC_TObject__Cylinder_glasssphere_small" name="Svar3a" selected="true">
                   <matrix>
                     <Matrix a="1.75" d="1.75" tx="-382.85" ty="-155.75"/>
                   </matrix>
@@ -114,11 +114,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar3b" color="#00FFFF" autoNamed="false">
+        <DOMLayer name="Svar3b" color="#00FFFF" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/Cylinder_Leadsphere_small" name="Svar3b">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/TC_TObject__Cylinder_Leadsphere_small" name="Svar3b" selected="true">
                   <matrix>
                     <Matrix a="1.75" d="1.75" tx="-382.85" ty="-155.75"/>
                   </matrix>
