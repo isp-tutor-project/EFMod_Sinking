@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQvariables" itemID="5b957024-00000b3f" lastModified="1536520228">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQvariables" itemID="5b957024-00000b3f" lastModified="1537382639">
   <timeline>
     <DOMTimeline name="TC_TScene__RQvariables">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMDynamicText name="S_sinking_varintro" fontRenderingMode="standard" top="-1.25" left="-850.2" width="1836.45" height="208.8" isSelectable="false" lineType="multiline">
+                <DOMDynamicText name="S_sinking_varintro" fontRenderingMode="standard" top="-1.25" left="-802.2" width="1732.45" height="208.8" isSelectable="false" lineType="multiline">
                   <matrix>
                     <Matrix tx="-72" ty="-316.8"/>
                   </matrix>

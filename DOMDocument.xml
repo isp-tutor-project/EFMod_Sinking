@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 115" majorVersion="18" buildNumber="115" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="F2D792AA7B4288761869248B9B716BF3">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 126" majorVersion="18" buildNumber="126" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="F2D792AA7B4288761869248B9B716BF3">
      <folders>
           <DOMFolderItem name="____componentassets____" itemID="5ad28523-00000243"/>
           <DOMFolderItem name="_HTMLControls" itemID="5b6f4063-000003e9"/>
@@ -6,8 +6,8 @@
           <DOMFolderItem name="_HTMLControls/TC_THtmlList__Assets" itemID="5b5cea4b-000003ab"/>
           <DOMFolderItem name="_HTMLControls/TC_THtmlTable__Assets" itemID="5b5f40d8-000002e3"/>
           <DOMFolderItem name="_HTMLControls/TC_THtmlText__Assets" itemID="5b5cd7c7-000002d7"/>
-          <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48" isExpanded="true"/>
-          <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9" isExpanded="true"/>
+          <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48"/>
+          <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets" itemID="5b68a267-00000548"/>
           <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e"/>
           <DOMFolderItem name="Assets/SinkingExperimentGraphics" itemID="5abd05fb-00000049"/>
@@ -17,12 +17,12 @@
           <DOMFolderItem name="Assets/SinkingExperimentGraphics/SinkingRQSlidesCombined" itemID="5afadd86-00000303"/>
           <DOMFolderItem name="Assets/SinkingExperimentGraphics/Spheres" itemID="5a284b12-000000a9"/>
           <DOMFolderItem name="Assets/SinkingExperimentGraphics/TearDrops" itemID="5a284c73-000000dc"/>
-          <DOMFolderItem name="Assets/SinkingGraphics" itemID="5afae96e-000002ce"/>
+          <DOMFolderItem name="Assets/SinkingGraphics" itemID="5afae96e-000002ce" isExpanded="true"/>
           <DOMFolderItem name="Assets/SinkingGraphics/CylinderAssets" itemID="5a284863-0000002f"/>
           <DOMFolderItem name="Assets/SinkingGraphics/Spheres" itemID="5afae7e5-000002c2"/>
           <DOMFolderItem name="Assets/SinkingGraphics/Spheres copy" itemID="5afaf4cd-000005ca"/>
           <DOMFolderItem name="Assets/SinkingGraphics/Spheres/Spheres copy" itemID="5afaf25c-000004ab"/>
-          <DOMFolderItem name="Components" itemID="5b92f439-00001cca" isExpanded="true"/>
+          <DOMFolderItem name="Components" itemID="5b92f439-00001cca"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
           <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
@@ -100,6 +100,7 @@
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b95702e-00000b40" lastModified="1537036772"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b957032-00000b41" lastModified="1537036774"/>
           <Include href="Components/TC_TObject__Vars.xml" itemID="5b957037-00000b42" lastModified="1537305043"/>
+          <Include href="Components/TC_TText__letsseehow.xml" loadImmediate="false" itemID="5ba29c83-00000762" lastModified="1537383555"/>
           <Include href="Exports/TL_Sinking__Movie.xml" loadImmediate="false" itemID="5b95703c-00000b43" lastModified="1536520252"/>
           <Include href="Exports/TL_Sinking__RQintro1.xml" loadImmediate="false" itemID="5b95881e-00000fa0" lastModified="1536526366"/>
           <Include href="Exports/TL_Sinking__RQintro2.xml" loadImmediate="false" itemID="5b95882e-00000fa9" lastModified="1536526382"/>
@@ -113,19 +114,19 @@
           <Include href="Exports/TL_Sinking__Topic.xml" loadImmediate="false" itemID="5b957041-00000b44" lastModified="1536520257"/>
           <Include href="Exports/TL_Sinking__Vars.xml" loadImmediate="false" itemID="5b957046-00000b45" lastModified="1536520262"/>
           <Include href="Scenes/TC_TScene__RQenumVars.xml" itemID="5b9e967a-000008c4" lastModified="1537121710"/>
-          <Include href="Scenes/TC_TScene__RQintro1.xml" itemID="5b956fff-00000b37" lastModified="1537036779"/>
-          <Include href="Scenes/TC_TScene__RQintro2.xml" itemID="5b957002-00000b38" lastModified="1537036781"/>
-          <Include href="Scenes/TC_TScene__RQintro3.xml" itemID="5b957005-00000b39" lastModified="1537036783"/>
-          <Include href="Scenes/TC_TScene__RQintro4.xml" itemID="5b957009-00000b3a" lastModified="1537036785"/>
-          <Include href="Scenes/TC_TScene__RQintro5.xml" itemID="5b95700d-00000b3b" lastModified="1537036787"/>
-          <Include href="Scenes/TC_TScene__RQintro6.xml" itemID="5b957011-00000b3c" lastModified="1537036790"/>
+          <Include href="Scenes/TC_TScene__RQintro1.xml" itemID="5ba29bc1-0000075a" lastModified="1537383734"/>
+          <Include href="Scenes/TC_TScene__RQintro2.xml" itemID="5ba29bc4-0000075b" lastModified="1537383655"/>
+          <Include href="Scenes/TC_TScene__RQintro3.xml" itemID="5ba29bc6-0000075c" lastModified="1537383659"/>
+          <Include href="Scenes/TC_TScene__RQintro4.xml" itemID="5ba29bc8-0000075d" lastModified="1537383662"/>
+          <Include href="Scenes/TC_TScene__RQintro5.xml" itemID="5ba3b797-00000433" lastModified="1537544145"/>
+          <Include href="Scenes/TC_TScene__RQintro6.xml" itemID="5ba3b79d-00000434" lastModified="1537544148"/>
           <Include href="Scenes/TC_TScene__RQmaterials.xml" itemID="5b95701c-00000b3e" lastModified="1537048420"/>
           <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b9585d5-00000eda" lastModified="1537304982"/>
-          <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b957024-00000b3f" lastModified="1536520228"/>
+          <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b957024-00000b3f" lastModified="1537382639"/>
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
      </symbols>
      <timelines>
-          <DOMTimeline name="Scene 1" currentFrame="9">
+          <DOMTimeline name="Scene 1" currentFrame="5">
                <layers>
                     <DOMLayer name="Actions" color="#00FFFF" locked="true" autoNamed="false" visible="false">
                          <frames>
@@ -140,17 +141,94 @@
                     <DOMLayer name="Scene Bounds" color="#FF00FF" locked="true" outline="true" useOutlineView="true" autoNamed="false" visible="false">
                          <frames>
                               <DOMFrame index="0" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Module Content" color="#9933CC" locked="true" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/SceneRegion">
+                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro1">
                                              <transformationPoint>
-                                                  <Point x="959.95" y="600"/>
+                                                  <Point x="960" y="600"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
                                    </elements>
                               </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro2">
+                                             <transformationPoint>
+                                                  <Point x="960" y="600"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro3">
+                                             <transformationPoint>
+                                                  <Point x="960" y="600"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements>
+                                        <DOMDynamicText name="S_sinktobottom" fontRenderingMode="standard" left="-297.2" width="1832.45" height="71.2" isSelectable="false" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="-619" ty="-505.2"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>It will sink to the bottom. </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="71.2" size="55" bitmapSize="1100" face="PTSans-Bold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro4">
+                                             <transformationPoint>
+                                                  <Point x="960" y="600"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro5">
+                                             <transformationPoint>
+                                                  <Point x="960.1" y="600.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro6">
+                                             <transformationPoint>
+                                                  <Point x="960.1" y="600.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Module Content" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+                    <DOMLayer name="Scene Bounds" color="#00FFFF" locked="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements/>
@@ -176,15 +254,12 @@
                               <DOMFrame index="7" keyMode="9728">
                                    <elements/>
                               </DOMFrame>
-                              <DOMFrame index="8" keyMode="9728">
-                                   <elements/>
-                              </DOMFrame>
-                              <DOMFrame index="9" keyMode="9728">
+                              <DOMFrame index="8" duration="2" keyMode="9728">
                                    <elements/>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Module Component" color="#00FFFF" autoNamed="false" visible="false">
+                    <DOMLayer name="Module Component" color="#00FFFF" locked="true" autoNamed="false" visible="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>

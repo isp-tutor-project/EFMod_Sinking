@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro1" itemID="5b956fff-00000b37" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro1" lastModified="1537036779" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro1" itemID="5ba29bc1-0000075a" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro1" lastModified="1537383734">
   <timeline>
     <DOMTimeline name="TC_TScene__RQintro1">
       <layers>
@@ -6,27 +6,27 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn">
+                  <transformationPoint>
+                    <Point x="959.95" y="600"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/TC_TObject__DroppingBall">
                   <matrix>
-                    <Matrix tx="-57.25" ty="121.35"/>
+                    <Matrix tx="883" ty="687.05"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="0.25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMDynamicText name="S_var_letsseehow" selected="true" fontRenderingMode="standard" left="-829.3" width="1832.45" height="77.65" isSelectable="false" lineType="multiline">
+                <DOMSymbolInstance libraryItemName="Components/TC_TText__letsseehow" selected="true">
                   <matrix>
-                    <Matrix tx="-86.9" ty="-459.55"/>
+                    <Matrix tx="92.05" ty="138.55"/>
                   </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>Let's see how this experiment works. </characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="77.65" size="60" bitmapSize="1200" face="PTSans-Bold"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMDynamicText>
+                  <transformationPoint>
+                    <Point x="872.2" y="40.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>

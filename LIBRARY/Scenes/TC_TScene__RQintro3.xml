@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro3" itemID="5b957005-00000b39" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro3" lastModified="1537036783">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro3" itemID="5ba29bc6-0000075c" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro3" lastModified="1537383659">
   <timeline>
     <DOMTimeline name="TC_TScene__RQintro3">
       <layers>
@@ -6,17 +6,22 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/TC_TObject__Ballfalling">
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn" selected="true" centerPoint3DX="960" centerPoint3DY="600">
+                  <transformationPoint>
+                    <Point x="959.95" y="600"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/TC_TObject__Ballfalling" selected="true" centerPoint3DX="883" centerPoint3DY="671.05">
                   <matrix>
-                    <Matrix tx="-39.25" ty="109.95"/>
+                    <Matrix tx="883" ty="671.05"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="0.25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMDynamicText name="S_placeanobject2" fontRenderingMode="standard" left="-833.35" width="1836.45" height="144.4" isSelectable="false" lineType="multiline">
+                <DOMDynamicText name="S_placeanobject" selected="true" fontRenderingMode="standard" left="-757.35" width="1732.45" height="144.4" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="-84.85" ty="-465.2"/>
+                    <Matrix tx="855.4" ty="104.55"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>

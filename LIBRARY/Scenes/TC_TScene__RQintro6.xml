@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro6" itemID="5b957011-00000b3c" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro6" lastModified="1537036790">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro6" itemID="5ba3b79d-00000434" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro6" lastModified="1537544148">
   <timeline>
     <DOMTimeline name="TC_TScene__RQintro6">
       <layers>
@@ -6,204 +6,74 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/TC_TObject__ballatbottom" centerPoint3DX="-33.25" centerPoint3DY="74.4">
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn" centerPoint3DX="960" centerPoint3DY="600">
+                  <transformationPoint>
+                    <Point x="960" y="600"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn" selected="true" centerPoint3DX="960.25" centerPoint3DY="600.15">
                   <matrix>
-                    <Matrix tx="-33.25" ty="74.4"/>
+                    <Matrix tx="0.25" ty="0.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="959.95" y="600"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/TC_TObject__ballatbottom" centerPoint3DX="883.25" centerPoint3DY="637.2">
+                  <matrix>
+                    <Matrix tx="883.25" ty="637.2"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="0.25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMDynamicText name="S_measuretime" fontRenderingMode="standard" left="-297.2" width="1832.45" height="64.7" isSelectable="false" lineType="multiline">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/Cclock">
                   <matrix>
-                    <Matrix tx="-619" ty="-462.55"/>
+                    <Matrix tx="1252.35" ty="900.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="S_zerotime" fontRenderingMode="standard" width="100" height="44.8" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="1216.9" ty="860.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>0.00</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="44.8" size="40" bitmapSize="800" face="PTMono-Regular" fillColor="#009933"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_secondslabel" fontRenderingMode="standard" width="100" height="11.2" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="1233.9" ty="895.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>sec./m.s.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="11.2" size="10" bitmapSize="200" face="PTMono-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_wecanmeasure" fontRenderingMode="standard" top="-106.05" left="-66.05" width="1732.45" height="92.05" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="160.1" ty="188.05"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
                       <characters>We can measure the time it takes for the object to sink in water.</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="64.7" size="50" bitmapSize="1000" face="PTSans-Bold"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="71.2" size="55" bitmapSize="1100" face="PTSans-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/Cclock" centerPoint3DX="308.55" centerPoint3DY="368.5">
-                  <matrix>
-                    <Matrix a="0.854965209960938" d="0.854965209960938" tx="308.5" ty="368.4"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="0.1" y="0.1"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMStaticText fontRenderingMode="standard" width="33.2" height="61.65" autoExpand="true" isSelectable="false">
-                  <matrix>
-                    <Matrix a="0.569976806640625" d="0.569976806640625" tx="292.45" ty="336.3"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>0</characters>
-                      <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" lineHeight="61.65" size="55" bitmapSize="1100" face="PTMono-Bold" fillColor="#009966"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" width="30.2" height="56" autoExpand="true" isSelectable="false">
-                  <matrix>
-                    <Matrix a="0.569976806640625" d="0.569976806640625" tx="307.45" ty="337.3"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>.</characters>
-                      <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" lineHeight="56" size="50" bitmapSize="1000" face="PTMono-Bold" fillColor="#009966"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" width="33.2" height="61.65" autoExpand="true" isSelectable="false">
-                  <matrix>
-                    <Matrix a="0.569976806640625" d="0.569976806640625" tx="320.95" ty="336.3"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>0</characters>
-                      <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" lineHeight="61.65" size="55" bitmapSize="1100" face="PTMono-Bold" fillColor="#009966"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" width="33.2" height="61.65" autoExpand="true" isSelectable="false">
-                  <matrix>
-                    <Matrix a="0.569976806640625" d="0.569976806640625" tx="339.95" ty="336.3"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>0</characters>
-                      <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" lineHeight="61.65" size="55" bitmapSize="1100" face="PTMono-Bold" fillColor="#009966"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" width="9.2" height="16.85" autoExpand="true" isSelectable="false">
-                  <matrix>
-                    <Matrix a="0.569976806640625" d="0.569976806640625" tx="307.7" ty="364.2"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>s</characters>
-                      <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" lineHeight="16.85" size="15" bitmapSize="300" face="PTMono-Bold"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" width="9.2" height="16.85" autoExpand="true" isSelectable="false">
-                  <matrix>
-                    <Matrix a="0.569976806640625" d="0.569976806640625" tx="312.65" ty="364.2"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>e</characters>
-                      <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" lineHeight="16.85" size="15" bitmapSize="300" face="PTMono-Bold"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" width="9.2" height="16.85" autoExpand="true" isSelectable="false">
-                  <matrix>
-                    <Matrix a="0.569976806640625" d="0.569976806640625" tx="318.35" ty="364.2"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>c</characters>
-                      <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" lineHeight="16.85" size="15" bitmapSize="300" face="PTMono-Bold"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" width="9.2" height="16.85" autoExpand="true" isSelectable="false">
-                  <matrix>
-                    <Matrix a="0.569976806640625" d="0.569976806640625" tx="323.3" ty="364.2"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>.</characters>
-                      <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" lineHeight="16.85" size="15" bitmapSize="300" face="PTMono-Bold"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" width="6.2" height="16.8" autoExpand="true" isSelectable="false">
-                  <matrix>
-                    <Matrix a="0.569976806640625" d="0.569976806640625" tx="326.15" ty="364.2"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>/</characters>
-                      <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" lineHeight="16.8" size="15" bitmapSize="300" face="Silom"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" width="9.2" height="16.85" autoExpand="true" isSelectable="false">
-                  <matrix>
-                    <Matrix a="0.569976806640625" d="0.569976806640625" tx="333.1" ty="364.2"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>m</characters>
-                      <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" lineHeight="16.85" size="15" bitmapSize="300" face="PTMono-Bold"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" width="9.2" height="16.85" autoExpand="true" isSelectable="false">
-                  <matrix>
-                    <Matrix a="0.569976806640625" d="0.569976806640625" tx="338.15" ty="364.2"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>.</characters>
-                      <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" lineHeight="16.85" size="15" bitmapSize="300" face="PTMono-Bold"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" width="9.2" height="16.85" autoExpand="true" isSelectable="false">
-                  <matrix>
-                    <Matrix a="0.569976806640625" d="0.569976806640625" tx="343.45" ty="364.2"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>s</characters>
-                      <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" lineHeight="16.85" size="15" bitmapSize="300" face="PTMono-Bold"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" width="9.2" height="16.85" autoExpand="true" isSelectable="false">
-                  <matrix>
-                    <Matrix a="0.569976806640625" d="0.569976806640625" tx="347.4" ty="364.2"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>.</characters>
-                      <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" lineHeight="16.85" size="15" bitmapSize="300" face="PTMono-Bold"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMStaticText>
               </elements>
             </DOMFrame>
           </frames>

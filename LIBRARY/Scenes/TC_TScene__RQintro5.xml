@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro5" itemID="5b95700d-00000b3b" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro5" lastModified="1537036787">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro5" itemID="5ba3b797-00000433" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro5" lastModified="1537544145">
   <timeline>
     <DOMTimeline name="TC_TScene__RQintro5">
       <layers>
@@ -6,17 +6,30 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/TC_TObject__ballatbottom">
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn" selected="true" centerPoint3DX="960" centerPoint3DY="600">
+                  <transformationPoint>
+                    <Point x="960" y="600"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn" selected="true" centerPoint3DX="960.25" centerPoint3DY="600.15">
                   <matrix>
-                    <Matrix tx="-33.25" ty="81"/>
+                    <Matrix tx="0.25" ty="0.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="959.95" y="600"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/TC_TObject__ballatbottom" selected="true" centerPoint3DX="883.25" centerPoint3DY="637.2">
+                  <matrix>
+                    <Matrix tx="883.25" ty="637.2"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="0.25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMDynamicText name="S_sinktobottom2" selected="true" fontRenderingMode="standard" left="-297.2" width="1832.45" height="71.2" isSelectable="false" lineType="multiline">
+                <DOMDynamicText name="S_sinktobottom" selected="true" fontRenderingMode="standard" left="-207.25" width="1742.5" height="71.2" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="-619" ty="-469.2"/>
+                    <Matrix tx="297.5" ty="86.6"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
