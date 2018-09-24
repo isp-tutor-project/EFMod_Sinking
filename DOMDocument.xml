@@ -9,7 +9,7 @@
           <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets" itemID="5b68a267-00000548"/>
-          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e" isExpanded="true"/>
+          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e"/>
           <DOMFolderItem name="Assets/SinkingExperimentGraphics" itemID="5abd05fb-00000049"/>
           <DOMFolderItem name="Assets/SinkingExperimentGraphics/CylinderAssets" itemID="5b92bd51-00000c64"/>
           <DOMFolderItem name="Assets/SinkingExperimentGraphics/NoSaltWater-DistilledAssets" itemID="5abd0d0a-000001a4"/>
@@ -22,7 +22,9 @@
           <DOMFolderItem name="Assets/SinkingGraphics/Spheres" itemID="5afae7e5-000002c2"/>
           <DOMFolderItem name="Assets/SinkingGraphics/Spheres copy" itemID="5afaf4cd-000005ca"/>
           <DOMFolderItem name="Assets/SinkingGraphics/Spheres/Spheres copy" itemID="5afaf25c-000004ab"/>
-          <DOMFolderItem name="Components" itemID="5b92f439-00001cca"/>
+          <DOMFolderItem name="Components" itemID="5b92f439-00001cca" isExpanded="true"/>
+          <DOMFolderItem name="Components/Bead Assets" itemID="5ba7f020-00001f6a"/>
+          <DOMFolderItem name="Components/Expt Assets" itemID="5ba90ab4-0000044b"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
           <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
@@ -96,11 +98,34 @@
           <Include href="Assets/SinkingGraphics/TC_TObject__DroppingBall.xml" loadImmediate="false" itemID="5afae9a9-000002d2" lastModified="1526393257"/>
           <Include href="Assets/SinkingGraphics/WaterCombinedMaterials.xml" loadImmediate="false" itemID="5afaf32b-000004b3" lastModified="1526395691"/>
           <Include href="Assets/TC_TObject__freshwaterCylinder.xml" loadImmediate="false" itemID="5ba169a8-00001fb7" lastModified="1537305000"/>
-          <Include href="Assets/TC_TObject__saltwaterCylinder.xml" loadImmediate="false" itemID="5ba169a1-00001fb6" lastModified="1537304993"/>
+          <Include href="Assets/TC_TObject__saltwaterCylinder.xml" loadImmediate="false" itemID="5ba169a1-00001fb6" lastModified="1537804935"/>
+          <Include href="Assets/TC_TText__letsseehow.xml" loadImmediate="false" itemID="5ba29c83-00000762" lastModified="1537383555"/>
+          <Include href="Components/Bead Assets/TC_TObject__BigSmall.xml" loadImmediate="false" itemID="5ba7e844-00001eba" lastModified="1537731999"/>
+          <Include href="Components/Bead Assets/TC_TObject__Circle.xml" loadImmediate="false" itemID="5ba7e94b-00001ec8" lastModified="1537732004"/>
+          <Include href="Components/Bead Assets/TC_TObject__CircleMaskBig.xml" loadImmediate="false" itemID="5ba7e445-00001e91" lastModified="1537729605"/>
+          <Include href="Components/Bead Assets/TC_TObject__CircleMaskSmall.xml" loadImmediate="false" itemID="5ba7e458-00001e99" lastModified="1537729757"/>
+          <Include href="Components/Bead Assets/TC_TObject__Glass.xml" loadImmediate="false" itemID="5ba7e8f4-00001ec3" lastModified="1537732011"/>
+          <Include href="Components/Bead Assets/TC_TObject__GlassMaterial.xml" loadImmediate="false" itemID="5ba7e3b5-00001e86" lastModified="1537731623"/>
+          <Include href="Components/Bead Assets/TC_TObject__lead.xml" loadImmediate="false" itemID="5ba7e8e6-00001ebe" lastModified="1537732016"/>
+          <Include href="Components/Bead Assets/TC_TObject__LeadMaterial.xml" loadImmediate="false" itemID="5ba7e3cf-00001e8a" lastModified="1537729891"/>
+          <Include href="Components/Bead Assets/TC_TObject__Tear.xml" loadImmediate="false" itemID="5ba7e956-00001ece" lastModified="1537732022"/>
+          <Include href="Components/Bead Assets/TC_TObject__TearMaskBig.xml" loadImmediate="false" itemID="5ba7e440-00001e90" lastModified="1537729646"/>
+          <Include href="Components/Bead Assets/TC_TObject__TearMaskSmall.xml" loadImmediate="false" itemID="5ba7e44d-00001e95" lastModified="1537729716"/>
+          <Include href="Components/Expt Assets/TC_TObject__Callout.xml" loadImmediate="false" itemID="5ba81883-00002275" lastModified="1537742979"/>
+          <Include href="Components/Expt Assets/TC_TObject__CalloutLong.xml" loadImmediate="false" itemID="5ba81901-0000227e" lastModified="1537743138"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt1a.xml" loadImmediate="false" itemID="5ba90e71-000005c1" lastModified="1537805937"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt1b.xml" loadImmediate="false" itemID="5ba90e7c-000005d7" lastModified="1537805948"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt2a.xml" loadImmediate="false" itemID="5ba90ea7-000005ff" lastModified="1537805992"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt2b.xml" loadImmediate="false" itemID="5ba90eb4-0000060a" lastModified="1537806004"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt3a.xml" loadImmediate="false" itemID="5ba90e8d-000005ed" lastModified="1537805965"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt3b.xml" loadImmediate="false" itemID="5ba90e98-000005f6" lastModified="1537805976"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt4a.xml" loadImmediate="false" itemID="5ba90ebf-00000615" lastModified="1537806015"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt4b.xml" loadImmediate="false" itemID="5ba90ec8-0000061f" lastModified="1537806025"/>
+          <Include href="Components/TC_TObject__Bead.xml" itemID="5ba7efbb-00001f55" lastModified="1537804627"/>
+          <Include href="Components/TC_TObject__Expt.xml" itemID="5ba9094c-000003a0" lastModified="1537806250"/>
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b95702e-00000b40" lastModified="1537036772"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b957032-00000b41" lastModified="1537036774"/>
           <Include href="Components/TC_TObject__Vars.xml" itemID="5b957037-00000b42" lastModified="1537732219"/>
-          <Include href="Components/TC_TText__letsseehow.xml" loadImmediate="false" itemID="5ba29c83-00000762" lastModified="1537383555"/>
           <Include href="Exports/TL_Sinking__Movie.xml" loadImmediate="false" itemID="5b95703c-00000b43" lastModified="1536520252"/>
           <Include href="Exports/TL_Sinking__RQintro1.xml" loadImmediate="false" itemID="5b95881e-00000fa0" lastModified="1536526366"/>
           <Include href="Exports/TL_Sinking__RQintro2.xml" loadImmediate="false" itemID="5b95882e-00000fa9" lastModified="1536526382"/>

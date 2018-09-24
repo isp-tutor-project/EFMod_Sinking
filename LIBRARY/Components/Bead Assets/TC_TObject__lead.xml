@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Bead Assets/TC_TObject__lead" itemID="5ba7e8e6-00001ebe" lastModified="1537732016">
+  <timeline>
+    <DOMTimeline name="TC_TObject__lead">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__LeadMaterial" selected="true">
+                  <matrix>
+                    <Matrix a="1.01976013183594" d="1.01976013183594" ty="432.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="201.15" y="201.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__LeadMaterial" selected="true">
+                  <matrix>
+                    <Matrix a="1.01976013183594" d="1.01976013183594"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="201.15" y="201.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

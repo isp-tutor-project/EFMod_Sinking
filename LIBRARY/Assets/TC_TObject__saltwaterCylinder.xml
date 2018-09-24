@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/TC_TObject__saltwaterCylinder" itemID="5ba169a1-00001fb6" lastModified="1537304993">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/TC_TObject__saltwaterCylinder" itemID="5ba169a1-00001fb6" lastModified="1537804935">
   <timeline>
     <DOMTimeline name="TC_TObject__saltwaterCylinder">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/SaltWaterAssets/CSaltWaterCylinder" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/SaltWaterAssets/CSaltWaterCylinder">
                   <matrix>
                     <Matrix a="2.32218933105469" d="2.32218933105469" tx="146.75" ty="377.35"/>
                   </matrix>
@@ -16,7 +16,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/SinkingExperimentGraphics/SaltWaterAssets/saltshaker">
                   <matrix>
-                    <Matrix a="2.3197021484375" d="2.3197021484375" tx="375.95" ty="639.8"/>
+                    <Matrix a="2.3197021484375" d="2.3197021484375" tx="434.7" ty="648.55"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.05" y="0.05"/>

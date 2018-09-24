@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Bead Assets/TC_TObject__Glass" itemID="5ba7e8f4-00001ec3" lastModified="1537732011">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Glass">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__GlassMaterial" selected="true">
+                  <matrix>
+                    <Matrix ty="432.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="205.05" y="205.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__GlassMaterial" selected="true">
+                  <transformationPoint>
+                    <Point x="205.05" y="205.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

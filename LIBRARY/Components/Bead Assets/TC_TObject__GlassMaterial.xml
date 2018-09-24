@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Bead Assets/TC_TObject__GlassMaterial" itemID="5ba7e3b5-00001e86" lastModified="1537731623">
+  <timeline>
+    <DOMTimeline name="TC_TObject__GlassMaterial">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.354019165039063" d="0.354019165039063" tx="204.65" ty="280"/>
+                        </matrix>
+                        <GradientEntry color="#FF802A" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" ratio="1"/>
+                        <GradientEntry ratio="1"/>
+                        <GradientEntry ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!0 0|8203 0!8203 0|8203 8203!8203 8203|0 8203!0 8203|0 0"/>
+                    <Edge cubics="!0 0(;0,0 8203,0 8203,0q0 0 8203 0);"/>
+                    <Edge cubics="!8203 0(;8203,0 8203,8203 8203,8203q8203 0 8203 8203);"/>
+                    <Edge cubics="!8203 8203(;8203,8203 0,8203 0,8203q8203 8203 0 8203);"/>
+                    <Edge cubics="!0 8203(;0,8203 0,0 0,0q0 8203 0 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Bead Assets/TC_TObject__LeadMaterial" itemID="5ba7e3cf-00001e8a" lastModified="1537729891">
+  <timeline>
+    <DOMTimeline name="TC_TObject__LeadMaterial">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.34716796875" d="0.34716796875" tx="198.35" ty="244.85"/>
+                        </matrix>
+                        <GradientEntry color="#666666" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!0 0|8044 0!8044 0|8044 8044!8044 8044|0 8044!0 8044|0 0"/>
+                    <Edge cubics="!0 0(;0,0 8044,0 8044,0q0 0 8044 0);"/>
+                    <Edge cubics="!8044 0(;8044,0 8044,8044 8044,8044q8044 0 8044 8044);"/>
+                    <Edge cubics="!8044 8044(;8044,8044 0,8044 0,8044q8044 8044 0 8044);"/>
+                    <Edge cubics="!0 8044(;0,8044 0,0 0,0q0 8044 0 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -19,7 +19,7 @@
                     <Point y="0.25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/TC_TText__letsseehow" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TText__letsseehow" selected="true">
                   <matrix>
                     <Matrix tx="92.05" ty="138.55"/>
                   </matrix>

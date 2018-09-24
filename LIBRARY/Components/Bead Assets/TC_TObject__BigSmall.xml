@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Bead Assets/TC_TObject__BigSmall" itemID="5ba7e844-00001eba" lastModified="1537731999">
+  <timeline>
+    <DOMTimeline name="TC_TObject__BigSmall">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="410.1" objectHeight="410.15" x="-1103.4" y="-334.3" selected="true" lockFlag="true">
+                  <matrix>
+                    <Matrix a="1.00018310546875" tx="1103.6" ty="334.3"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
