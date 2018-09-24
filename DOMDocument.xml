@@ -122,7 +122,7 @@
           <Include href="Components/Expt Assets/TC_TObject__Expt4a.xml" loadImmediate="false" itemID="5ba90ebf-00000615" lastModified="1537806015"/>
           <Include href="Components/Expt Assets/TC_TObject__Expt4b.xml" loadImmediate="false" itemID="5ba90ec8-0000061f" lastModified="1537806025"/>
           <Include href="Components/TC_TObject__Bead.xml" itemID="5ba7efbb-00001f55" lastModified="1537804627"/>
-          <Include href="Components/TC_TObject__Expt.xml" itemID="5ba9094c-000003a0" lastModified="1537806250"/>
+          <Include href="Components/TC_TObject__Expt.xml" itemID="5ba9094c-000003a0" lastModified="1537807378"/>
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b95702e-00000b40" lastModified="1537036772"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b957032-00000b41" lastModified="1537036774"/>
           <Include href="Components/TC_TObject__Vars.xml" itemID="5b957037-00000b42" lastModified="1537732219"/>
