@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 115" majorVersion="18" buildNumber="115" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="F2D792AA7B4288761869248B9B716BF3">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 126" majorVersion="18" buildNumber="126" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="F2D792AA7B4288761869248B9B716BF3">
      <folders>
           <DOMFolderItem name="____componentassets____" itemID="5ad28523-00000243"/>
           <DOMFolderItem name="_HTMLControls" itemID="5b6f4063-000003e9"/>
@@ -9,7 +9,7 @@
           <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets" itemID="5b68a267-00000548"/>
-          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e"/>
+          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e" isExpanded="true"/>
           <DOMFolderItem name="Assets/SinkingExperimentGraphics" itemID="5abd05fb-00000049"/>
           <DOMFolderItem name="Assets/SinkingExperimentGraphics/CylinderAssets" itemID="5b92bd51-00000c64"/>
           <DOMFolderItem name="Assets/SinkingExperimentGraphics/NoSaltWater-DistilledAssets" itemID="5abd0d0a-000001a4"/>
@@ -17,14 +17,14 @@
           <DOMFolderItem name="Assets/SinkingExperimentGraphics/SinkingRQSlidesCombined" itemID="5afadd86-00000303"/>
           <DOMFolderItem name="Assets/SinkingExperimentGraphics/Spheres" itemID="5a284b12-000000a9"/>
           <DOMFolderItem name="Assets/SinkingExperimentGraphics/TearDrops" itemID="5a284c73-000000dc"/>
-          <DOMFolderItem name="Assets/SinkingGraphics" itemID="5afae96e-000002ce" isExpanded="true"/>
+          <DOMFolderItem name="Assets/SinkingGraphics" itemID="5afae96e-000002ce"/>
           <DOMFolderItem name="Assets/SinkingGraphics/CylinderAssets" itemID="5a284863-0000002f"/>
-          <DOMFolderItem name="Assets/SinkingGraphics/Spheres" itemID="5afae7e5-000002c2"/>
+          <DOMFolderItem name="Assets/SinkingGraphics/Spheres" itemID="5afae7e5-000002c2" isExpanded="true"/>
           <DOMFolderItem name="Assets/SinkingGraphics/Spheres copy" itemID="5afaf4cd-000005ca"/>
-          <DOMFolderItem name="Assets/SinkingGraphics/Spheres/Spheres copy" itemID="5afaf25c-000004ab"/>
+          <DOMFolderItem name="Assets/SinkingGraphics/Spheres/Spheres copy" itemID="5afaf25c-000004ab" isExpanded="true"/>
           <DOMFolderItem name="Components" itemID="5b92f439-00001cca" isExpanded="true"/>
           <DOMFolderItem name="Components/Bead Assets" itemID="5ba7f020-00001f6a"/>
-          <DOMFolderItem name="Components/Expt Assets" itemID="5ba90ab4-0000044b"/>
+          <DOMFolderItem name="Components/Expt Assets" itemID="5ba90ab4-0000044b" isExpanded="true"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
           <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
@@ -89,7 +89,7 @@
           <Include href="Assets/SinkingGraphics/handforstopwatch.xml" loadImmediate="false" itemID="5a2afca9-00000138" lastModified="1512766633"/>
           <Include href="Assets/SinkingGraphics/NewCylinderwithWater.xml" loadImmediate="false" itemID="5a9ffcff-00000244" lastModified="1520434431"/>
           <Include href="Assets/SinkingGraphics/Spheres copy/SmallSphere_Glass.xml" loadImmediate="false" itemID="5a284b66-000000b2" lastModified="1512590182"/>
-          <Include href="Assets/SinkingGraphics/Spheres/Spheres copy/LargeSphere_Glass.xml" loadImmediate="false" itemID="5a284b6c-000000b3" lastModified="1512590188"/>
+          <Include href="Assets/SinkingGraphics/Spheres/Spheres copy/LargeSphere_Glass.xml" loadImmediate="false" itemID="5a284b6c-000000b3" lastModified="1537811167"/>
           <Include href="Assets/SinkingGraphics/Spheres/Spheres copy/LargeSphere_Lead.xml" loadImmediate="false" itemID="5a284bf3-000000cd" lastModified="1512590324"/>
           <Include href="Assets/SinkingGraphics/TC_TObject__arrow.xml" loadImmediate="false" itemID="5b9d7e2b-0000288f" lastModified="1537048107"/>
           <Include href="Assets/SinkingGraphics/TC_TObject__ballatbottom.xml" loadImmediate="false" itemID="5b9d534d-000015e8" lastModified="1537037133"/>
@@ -104,8 +104,8 @@
           <Include href="Components/Bead Assets/TC_TObject__Circle.xml" loadImmediate="false" itemID="5ba7e94b-00001ec8" lastModified="1537732004"/>
           <Include href="Components/Bead Assets/TC_TObject__CircleMaskBig.xml" loadImmediate="false" itemID="5ba7e445-00001e91" lastModified="1537729605"/>
           <Include href="Components/Bead Assets/TC_TObject__CircleMaskSmall.xml" loadImmediate="false" itemID="5ba7e458-00001e99" lastModified="1537729757"/>
-          <Include href="Components/Bead Assets/TC_TObject__Glass.xml" loadImmediate="false" itemID="5ba7e8f4-00001ec3" lastModified="1537732011"/>
-          <Include href="Components/Bead Assets/TC_TObject__GlassMaterial.xml" loadImmediate="false" itemID="5ba7e3b5-00001e86" lastModified="1537731623"/>
+          <Include href="Components/Bead Assets/TC_TObject__Glass.xml" loadImmediate="false" itemID="5ba7e8f4-00001ec3" lastModified="1537819926"/>
+          <Include href="Components/Bead Assets/TC_TObject__GlassMaterial.xml" loadImmediate="false" itemID="5ba7e3b5-00001e86" lastModified="1537819955"/>
           <Include href="Components/Bead Assets/TC_TObject__lead.xml" loadImmediate="false" itemID="5ba7e8e6-00001ebe" lastModified="1537732016"/>
           <Include href="Components/Bead Assets/TC_TObject__LeadMaterial.xml" loadImmediate="false" itemID="5ba7e3cf-00001e8a" lastModified="1537729891"/>
           <Include href="Components/Bead Assets/TC_TObject__Tear.xml" loadImmediate="false" itemID="5ba7e956-00001ece" lastModified="1537732022"/>
@@ -120,10 +120,10 @@
           <Include href="Components/Expt Assets/TC_TObject__Expt3a.xml" loadImmediate="false" itemID="5ba90e8d-000005ed" lastModified="1537810169"/>
           <Include href="Components/Expt Assets/TC_TObject__Expt3b.xml" loadImmediate="false" itemID="5ba90e98-000005f6" lastModified="1537810192"/>
           <Include href="Components/Expt Assets/TC_TObject__Expt4a.xml" loadImmediate="false" itemID="5ba90ebf-00000615" lastModified="1537806015"/>
-          <Include href="Components/Expt Assets/TC_TObject__Expt4b.xml" loadImmediate="false" itemID="5ba90ec8-0000061f" lastModified="1537810276"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt4b.xml" loadImmediate="false" itemID="5ba90ec8-0000061f" lastModified="1537812232"/>
           <Include href="Components/Expt Assets/TC_TObject__Highlight.xml" loadImmediate="false" itemID="5ba91b96-00000878" lastModified="1537809302"/>
-          <Include href="Components/TC_TObject__Bead.xml" itemID="5ba7efbb-00001f55" lastModified="1537804627"/>
-          <Include href="Components/TC_TObject__Expt.xml" itemID="5ba9094c-000003a0" lastModified="1537810265"/>
+          <Include href="Components/TC_TObject__Bead.xml" itemID="5ba7efbb-00001f55" lastModified="1537811382"/>
+          <Include href="Components/TC_TObject__Expt.xml" itemID="5ba9094c-000003a0" lastModified="1537819998"/>
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b95702e-00000b40" lastModified="1537036772"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b957032-00000b41" lastModified="1537036774"/>
           <Include href="Components/TC_TObject__Vars.xml" itemID="5b957037-00000b42" lastModified="1537732219"/>
@@ -152,7 +152,7 @@
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
      </symbols>
      <timelines>
-          <DOMTimeline name="Scene 1" currentFrame="2">
+          <DOMTimeline name="Scene 1">
                <layers>
                     <DOMLayer name="Actions" color="#00FFFF" locked="true" autoNamed="false" visible="false">
                          <frames>
@@ -164,7 +164,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Module Content" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+                    <DOMLayer name="Module Content" color="#9933CC" locked="true" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements/>
@@ -227,6 +227,223 @@
      <scripts>
           <GlobalScripts language="Javascript"/>
      </scripts>
+     <extendedSwatchLists>
+          <swatchList>
+               <swatchListInfo name="Default Swatches"/>
+
+               <swatches>
+                    <swatchListInfo name="Default Swatches"/>
+
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#FFFFFF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#FFFFFF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#FF0000" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#00FF00" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#0000FF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#0066FD" ratio="0"/>
+                         <GradientEntry color="#FFFFFF" ratio="0.376470588235294"/>
+                         <GradientEntry color="#FFFFFF" ratio="0.47843137254902"/>
+                         <GradientEntry color="#996600" ratio="0.501960784313725"/>
+                         <GradientEntry color="#FFCC00" ratio="0.666666666666667"/>
+                         <GradientEntry color="#FFFFFF" ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#FF0000" ratio="0"/>
+                         <GradientEntry color="#FFFF00" ratio="0.164705882352941"/>
+                         <GradientEntry color="#00FF00" ratio="0.364705882352941"/>
+                         <GradientEntry color="#00FFFF" ratio="0.498039215686275"/>
+                         <GradientEntry color="#0000FF" ratio="0.666666666666667"/>
+                         <GradientEntry color="#FF00FF" ratio="0.831372549019608"/>
+                         <GradientEntry color="#FF0000" ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#155F6B" alpha="0.788235294117647" ratio="0"/>
+                         <GradientEntry color="#F40B28" alpha="0.972549019607843" ratio="0.152941176470588"/>
+                         <GradientEntry color="#7739D0" alpha="0.627450980392157" ratio="0.211764705882353"/>
+                         <GradientEntry color="#FF071A" ratio="0.274509803921569"/>
+                         <GradientEntry color="#FF4863" alpha="0.4" ratio="0.4"/>
+                         <GradientEntry color="#7533D2" alpha="0.631372549019608" ratio="0.486274509803922"/>
+                         <GradientEntry color="#C8F68F" alpha="0.8" ratio="0.576470588235294"/>
+                         <GradientEntry color="#4F00ED" alpha="0.749019607843137" ratio="0.670588235294118"/>
+                         <GradientEntry color="#F1F025" alpha="0.423529411764706" ratio="0.717647058823529"/>
+                         <GradientEntry color="#FD192C" alpha="0.415686274509804" ratio="0.83921568627451"/>
+                         <GradientEntry color="#F2DB37" alpha="0.423529411764706" ratio="0.886274509803922"/>
+                         <GradientEntry color="#FB7F89" alpha="0.427450980392157" ratio="0.933333333333333"/>
+                         <GradientEntry color="#F7FFFF" alpha="0.447058823529412" ratio="1"/>
+                         <GradientEntry ratio="1"/>
+                         <GradientEntry color="#F4C64A" alpha="0.423529411764706" ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#155F6B" alpha="0.788235294117647" ratio="0"/>
+                         <GradientEntry color="#F40B28" alpha="0.972549019607843" ratio="0.0549019607843137"/>
+                         <GradientEntry color="#7739D0" alpha="0.627450980392157" ratio="0.101960784313725"/>
+                         <GradientEntry color="#FF071A" ratio="0.145098039215686"/>
+                         <GradientEntry color="#FF4863" alpha="0.4" ratio="0.196078431372549"/>
+                         <GradientEntry color="#7533D2" alpha="0.631372549019608" ratio="0.247058823529412"/>
+                         <GradientEntry color="#C8F68F" alpha="0.8" ratio="0.290196078431373"/>
+                         <GradientEntry color="#4F00ED" alpha="0.749019607843137" ratio="0.329411764705882"/>
+                         <GradientEntry color="#F1F025" alpha="0.423529411764706" ratio="0.380392156862745"/>
+                         <GradientEntry color="#FD192C" alpha="0.415686274509804" ratio="0.427450980392157"/>
+                         <GradientEntry color="#F2DB37" alpha="0.423529411764706" ratio="0.470588235294118"/>
+                         <GradientEntry color="#FB7F89" alpha="0.427450980392157" ratio="0.517647058823529"/>
+                         <GradientEntry color="#F7FFFF" alpha="0.447058823529412" ratio="0.584313725490196"/>
+                         <GradientEntry color="#FFFFFF" ratio="1"/>
+                         <GradientEntry color="#F4C64A" alpha="0.423529411764706" ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#155F6B" alpha="0.788235294117647" ratio="0"/>
+                         <GradientEntry color="#7739D0" alpha="0.627450980392157" ratio="0.101960784313725"/>
+                         <GradientEntry color="#FF4863" alpha="0.4" ratio="0.152941176470588"/>
+                         <GradientEntry color="#7533D2" alpha="0.631372549019608" ratio="0.188235294117647"/>
+                         <GradientEntry color="#C8F68F" alpha="0.8" ratio="0.223529411764706"/>
+                         <GradientEntry color="#FF071A" ratio="0.266666666666667"/>
+                         <GradientEntry color="#4F00ED" alpha="0.749019607843137" ratio="0.294117647058824"/>
+                         <GradientEntry color="#F1F025" alpha="0.423529411764706" ratio="0.329411764705882"/>
+                         <GradientEntry color="#F40B28" alpha="0.972549019607843" ratio="0.368627450980392"/>
+                         <GradientEntry color="#FD192C" alpha="0.415686274509804" ratio="0.415686274509804"/>
+                         <GradientEntry color="#F2DB37" alpha="0.423529411764706" ratio="0.450980392156863"/>
+                         <GradientEntry color="#FB7F89" alpha="0.427450980392157" ratio="0.494117647058824"/>
+                         <GradientEntry color="#F7FFFF" alpha="0.447058823529412" ratio="0.533333333333333"/>
+                         <GradientEntry color="#FFFFFF" ratio="1"/>
+                         <GradientEntry color="#F4C64A" alpha="0.423529411764706" ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#155F6B" alpha="0.788235294117647" ratio="0"/>
+                         <GradientEntry color="#7739D0" alpha="0.627450980392157" ratio="0.101960784313725"/>
+                         <GradientEntry color="#F2DB37" alpha="0.423529411764706" ratio="0.145098039215686"/>
+                         <GradientEntry color="#F1F025" alpha="0.423529411764706" ratio="0.207843137254902"/>
+                         <GradientEntry color="#7533D2" alpha="0.631372549019608" ratio="0.247058823529412"/>
+                         <GradientEntry color="#C8F68F" alpha="0.8" ratio="0.290196078431373"/>
+                         <GradientEntry color="#4F00ED" alpha="0.749019607843137" ratio="0.290196078431373"/>
+                         <GradientEntry color="#F40B28" alpha="0.972549019607843" ratio="0.341176470588235"/>
+                         <GradientEntry color="#FF4863" alpha="0.4" ratio="0.384313725490196"/>
+                         <GradientEntry color="#FD192C" alpha="0.415686274509804" ratio="0.427450980392157"/>
+                         <GradientEntry color="#FF071A" ratio="0.47843137254902"/>
+                         <GradientEntry color="#FB7F89" alpha="0.427450980392157" ratio="0.517647058823529"/>
+                         <GradientEntry color="#F7FFFF" alpha="0.447058823529412" ratio="0.584313725490196"/>
+                         <GradientEntry color="#FFFFFF" ratio="1"/>
+                         <GradientEntry color="#F4C64A" alpha="0.423529411764706" ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#155F6B" alpha="0.788235294117647" ratio="0"/>
+                         <GradientEntry color="#F40B28" alpha="0.972549019607843" ratio="0.00784313725490196"/>
+                         <GradientEntry color="#7739D0" alpha="0.627450980392157" ratio="0.0196078431372549"/>
+                         <GradientEntry color="#FF071A" ratio="0.0392156862745098"/>
+                         <GradientEntry color="#FF4863" alpha="0.4" ratio="0.0784313725490196"/>
+                         <GradientEntry color="#7533D2" alpha="0.631372549019608" ratio="0.109803921568627"/>
+                         <GradientEntry color="#C8F68F" alpha="0.8" ratio="0.141176470588235"/>
+                         <GradientEntry color="#4F00ED" alpha="0.749019607843137" ratio="0.176470588235294"/>
+                         <GradientEntry color="#F1F025" alpha="0.423529411764706" ratio="0.207843137254902"/>
+                         <GradientEntry color="#FD192C" alpha="0.415686274509804" ratio="0.23921568627451"/>
+                         <GradientEntry color="#F2DB37" alpha="0.423529411764706" ratio="0.266666666666667"/>
+                         <GradientEntry color="#FB7F89" alpha="0.427450980392157" ratio="0.290196078431373"/>
+                         <GradientEntry color="#8E8E38" ratio="0.325490196078431"/>
+                         <GradientEntry color="#FFFFFF" alpha="0.423529411764706" ratio="0.36078431372549"/>
+                         <GradientEntry color="#D97A82" alpha="0.447058823529412" ratio="0.392156862745098"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#155F6B" alpha="0.788235294117647" ratio="0"/>
+                         <GradientEntry color="#F40B28" alpha="0.972549019607843" ratio="0.00784313725490196"/>
+                         <GradientEntry color="#7739D0" alpha="0.627450980392157" ratio="0.0196078431372549"/>
+                         <GradientEntry color="#FF071A" ratio="0.0392156862745098"/>
+                         <GradientEntry color="#FF4863" alpha="0.4" ratio="0.0784313725490196"/>
+                         <GradientEntry color="#7533D2" alpha="0.631372549019608" ratio="0.109803921568627"/>
+                         <GradientEntry color="#C8F68F" alpha="0.8" ratio="0.141176470588235"/>
+                         <GradientEntry color="#4F00ED" alpha="0.749019607843137" ratio="0.176470588235294"/>
+                         <GradientEntry color="#F1F025" alpha="0.423529411764706" ratio="0.207843137254902"/>
+                         <GradientEntry color="#FD192C" alpha="0.415686274509804" ratio="0.23921568627451"/>
+                         <GradientEntry color="#F2DB37" alpha="0.423529411764706" ratio="0.266666666666667"/>
+                         <GradientEntry color="#FB7F89" alpha="0.427450980392157" ratio="0.290196078431373"/>
+                         <GradientEntry color="#8E8E38" ratio="0.325490196078431"/>
+                         <GradientEntry color="#FFFFFF" alpha="0.423529411764706" ratio="0.36078431372549"/>
+                         <GradientEntry color="#D97A82" alpha="0.447058823529412" ratio="0.392156862745098"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#155F6B" alpha="0.788235294117647" ratio="0"/>
+                         <GradientEntry color="#F40B28" alpha="0.972549019607843" ratio="0.152941176470588"/>
+                         <GradientEntry color="#7739D0" alpha="0.627450980392157" ratio="0.211764705882353"/>
+                         <GradientEntry color="#FF071A" ratio="0.274509803921569"/>
+                         <GradientEntry color="#FF4863" alpha="0.4" ratio="0.4"/>
+                         <GradientEntry color="#7533D2" alpha="0.631372549019608" ratio="0.486274509803922"/>
+                         <GradientEntry color="#C8F68F" alpha="0.8" ratio="0.576470588235294"/>
+                         <GradientEntry color="#4F00ED" alpha="0.749019607843137" ratio="0.670588235294118"/>
+                         <GradientEntry color="#F1F025" alpha="0.423529411764706" ratio="0.717647058823529"/>
+                         <GradientEntry color="#FD192C" alpha="0.415686274509804" ratio="0.83921568627451"/>
+                         <GradientEntry color="#F2DB37" alpha="0.423529411764706" ratio="0.886274509803922"/>
+                         <GradientEntry color="#FB7F89" alpha="0.427450980392157" ratio="0.933333333333333"/>
+                         <GradientEntry color="#F7FFFF" alpha="0.447058823529412" ratio="1"/>
+                         <GradientEntry ratio="1"/>
+                         <GradientEntry color="#F4C64A" alpha="0.423529411764706" ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#0000FF" alpha="0.788235294117647" ratio="0"/>
+                         <GradientEntry color="#F40B28" alpha="0.972549019607843" ratio="0.152941176470588"/>
+                         <GradientEntry color="#7739D0" alpha="0.627450980392157" ratio="0.211764705882353"/>
+                         <GradientEntry color="#FF071A" ratio="0.274509803921569"/>
+                         <GradientEntry color="#FF4863" alpha="0.4" ratio="0.4"/>
+                         <GradientEntry color="#7533D2" alpha="0.631372549019608" ratio="0.486274509803922"/>
+                         <GradientEntry color="#C8F68F" alpha="0.8" ratio="0.576470588235294"/>
+                         <GradientEntry color="#4F00ED" alpha="0.749019607843137" ratio="0.670588235294118"/>
+                         <GradientEntry color="#F1F025" alpha="0.423529411764706" ratio="0.717647058823529"/>
+                         <GradientEntry color="#FD192C" alpha="0.415686274509804" ratio="0.83921568627451"/>
+                         <GradientEntry color="#F2DB37" alpha="0.423529411764706" ratio="0.886274509803922"/>
+                         <GradientEntry color="#FB7F89" alpha="0.427450980392157" ratio="0.933333333333333"/>
+                         <GradientEntry color="#F7FFFF" alpha="0.447058823529412" ratio="1"/>
+                         <GradientEntry ratio="1"/>
+                         <GradientEntry color="#F4C64A" alpha="0.423529411764706" ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#0000FF" alpha="0.788235294117647" ratio="0"/>
+                         <GradientEntry color="#F40B28" alpha="0.972549019607843" ratio="0.152941176470588"/>
+                         <GradientEntry color="#7739D0" alpha="0.627450980392157" ratio="0.211764705882353"/>
+                         <GradientEntry color="#FF7330" ratio="0.274509803921569"/>
+                         <GradientEntry color="#FF4863" alpha="0.4" ratio="0.4"/>
+                         <GradientEntry color="#7533D2" alpha="0.631372549019608" ratio="0.486274509803922"/>
+                         <GradientEntry color="#C8F68F" alpha="0.8" ratio="0.576470588235294"/>
+                         <GradientEntry color="#4F00ED" alpha="0.749019607843137" ratio="0.670588235294118"/>
+                         <GradientEntry color="#F1F025" alpha="0.423529411764706" ratio="0.717647058823529"/>
+                         <GradientEntry color="#FD192C" alpha="0.415686274509804" ratio="0.83921568627451"/>
+                         <GradientEntry color="#F2DB37" alpha="0.423529411764706" ratio="0.886274509803922"/>
+                         <GradientEntry color="#FB7F89" alpha="0.427450980392157" ratio="0.933333333333333"/>
+                         <GradientEntry color="#F7FFFF" alpha="0.447058823529412" ratio="1"/>
+                         <GradientEntry ratio="1"/>
+                         <GradientEntry color="#F4C64A" alpha="0.423529411764706" ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#0000FF" alpha="0.788235294117647" ratio="0"/>
+                         <GradientEntry color="#F40B28" alpha="0.972549019607843" ratio="0.0745098039215686"/>
+                         <GradientEntry color="#7739D0" alpha="0.627450980392157" ratio="0.125490196078431"/>
+                         <GradientEntry color="#FF7330" ratio="0.176470588235294"/>
+                         <GradientEntry color="#FF4863" alpha="0.4" ratio="0.227450980392157"/>
+                         <GradientEntry color="#7533D2" alpha="0.631372549019608" ratio="0.298039215686275"/>
+                         <GradientEntry color="#C8F68F" alpha="0.8" ratio="0.349019607843137"/>
+                         <GradientEntry color="#4F00ED" alpha="0.749019607843137" ratio="0.415686274509804"/>
+                         <GradientEntry color="#F1F025" alpha="0.423529411764706" ratio="0.482352941176471"/>
+                         <GradientEntry color="#FD192C" alpha="0.415686274509804" ratio="0.533333333333333"/>
+                         <GradientEntry color="#F2DB37" alpha="0.423529411764706" ratio="0.580392156862745"/>
+                         <GradientEntry color="#FB7F89" alpha="0.427450980392157" ratio="0.635294117647059"/>
+                         <GradientEntry color="#F7FFFF" alpha="0.447058823529412" ratio="0.682352941176471"/>
+                         <GradientEntry color="#FFFFFF" ratio="1"/>
+                         <GradientEntry color="#F4C64A" alpha="0.423529411764706" ratio="1"/>
+                    </RadialGradientSwatchItem>
+               </swatches>
+          </swatchList>
+     </extendedSwatchLists>
      <persistentData>
           <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
      </persistentData>

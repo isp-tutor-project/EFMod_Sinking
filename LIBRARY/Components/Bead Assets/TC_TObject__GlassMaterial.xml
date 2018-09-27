@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Bead Assets/TC_TObject__GlassMaterial" itemID="5ba7e3b5-00001e86" lastModified="1537731623">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Bead Assets/TC_TObject__GlassMaterial" itemID="5ba7e3b5-00001e86" lastModified="1537819955">
   <timeline>
     <DOMTimeline name="TC_TObject__GlassMaterial">
       <layers>
@@ -11,21 +11,32 @@
                     <FillStyle index="1">
                       <RadialGradient>
                         <matrix>
-                          <Matrix a="0.354019165039063" d="0.354019165039063" tx="204.65" ty="280"/>
+                          <Matrix a="0.34002685546875" d="0.34002685546875" tx="205" ty="198.25"/>
                         </matrix>
-                        <GradientEntry color="#FF802A" ratio="0"/>
+                        <GradientEntry color="#0000FF" alpha="0.788235294117647" ratio="0"/>
+                        <GradientEntry color="#F40B28" alpha="0.972549019607843" ratio="0.0745098039215686"/>
+                        <GradientEntry color="#7739D0" alpha="0.627450980392157" ratio="0.125490196078431"/>
+                        <GradientEntry color="#FF7330" ratio="0.176470588235294"/>
+                        <GradientEntry color="#FF4863" alpha="0.4" ratio="0.227450980392157"/>
+                        <GradientEntry color="#7533D2" alpha="0.631372549019608" ratio="0.298039215686275"/>
+                        <GradientEntry color="#C8F68F" alpha="0.8" ratio="0.349019607843137"/>
+                        <GradientEntry color="#4F00ED" alpha="0.749019607843137" ratio="0.415686274509804"/>
+                        <GradientEntry color="#F1F025" alpha="0.423529411764706" ratio="0.482352941176471"/>
+                        <GradientEntry color="#FD192C" alpha="0.415686274509804" ratio="0.533333333333333"/>
+                        <GradientEntry color="#F2DB37" alpha="0.423529411764706" ratio="0.580392156862745"/>
+                        <GradientEntry color="#FB7F89" alpha="0.427450980392157" ratio="0.635294117647059"/>
+                        <GradientEntry color="#F7FFFF" alpha="0.447058823529412" ratio="0.682352941176471"/>
                         <GradientEntry color="#FFFFFF" ratio="1"/>
-                        <GradientEntry ratio="1"/>
-                        <GradientEntry ratio="1"/>
+                        <GradientEntry color="#F4C64A" alpha="0.423529411764706" ratio="1"/>
                       </RadialGradient>
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!0 0|8203 0!8203 0|8203 8203!8203 8203|0 8203!0 8203|0 0"/>
-                    <Edge cubics="!0 0(;0,0 8203,0 8203,0q0 0 8203 0);"/>
-                    <Edge cubics="!8203 0(;8203,0 8203,8203 8203,8203q8203 0 8203 8203);"/>
-                    <Edge cubics="!8203 8203(;8203,8203 0,8203 0,8203q8203 8203 0 8203);"/>
-                    <Edge cubics="!0 8203(;0,8203 0,0 0,0q0 8203 0 0);"/>
+                    <Edge fillStyle1="1" edges="!162 27|8041 27!8041 27|8041 7905!8041 7905|162 7905!162 7905|162 27"/>
+                    <Edge cubics="!162 27(;162,27 8041,27 8041,27q162 27 8041 27);"/>
+                    <Edge cubics="!8041 27(;8041,27 8041,7905 8041,7905q8041 27 8041 7905);"/>
+                    <Edge cubics="!8041 7905(;8041,7905 162,7905 162,7905q8041 7905 162 7905);"/>
+                    <Edge cubics="!162 7905(;162,7905 162,27 162,27q162 7905 162 27);"/>
                   </edges>
                 </DOMShape>
               </elements>

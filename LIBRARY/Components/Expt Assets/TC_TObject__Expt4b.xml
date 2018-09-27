@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt4b" itemID="5ba90ec8-0000061f" lastModified="1537810276">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt4b" itemID="5ba90ec8-0000061f" lastModified="1537812232">
   <timeline>
     <DOMTimeline name="TC_TObject__Expt4b">
       <layers>
@@ -14,7 +14,7 @@
                     <Point x="63.5" y="25.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__Glass" name="Svar4b">
+                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__Glass" name="Svar4b" selected="true">
                   <matrix>
                     <Matrix a="0.217071533203125" d="0.217071533203125"/>
                   </matrix>

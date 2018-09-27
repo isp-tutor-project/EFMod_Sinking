@@ -167,7 +167,7 @@
           <frames>
             <DOMFrame index="0" duration="7" keyMode="9728">
               <elements>
-                <DOMStaticText fontRenderingMode="standard" left="14.15" width="55.3" height="21.65" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" left="14.15" width="55.3" height="21.25" isSelectable="false">
                   <matrix>
                     <Matrix tx="410.9" ty="304.7"/>
                   </matrix>

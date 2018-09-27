@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Bead Assets/TC_TObject__Glass" itemID="5ba7e8f4-00001ec3" lastModified="1537732011">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Bead Assets/TC_TObject__Glass" itemID="5ba7e8f4-00001ec3" lastModified="1537819926">
   <timeline>
     <DOMTimeline name="TC_TObject__Glass">
       <layers>
@@ -11,10 +11,10 @@
                     <Matrix ty="432.05"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="205.05" y="205.05"/>
+                    <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__GlassMaterial" selected="true">
+                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__GlassMaterial">
                   <transformationPoint>
                     <Point x="205.05" y="205.05"/>
                   </transformationPoint>

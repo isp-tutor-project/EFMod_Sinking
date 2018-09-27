@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/SinkingGraphics/Spheres/Spheres copy/LargeSphere_Glass" itemID="5a284b6c-000000b3" lastModified="1512590188">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/SinkingGraphics/Spheres/Spheres copy/LargeSphere_Glass" itemID="5a284b6c-000000b3" lastModified="1537811167">
   <timeline>
     <DOMTimeline name="LargeSphere_Glass">
       <layers>
@@ -41,7 +41,7 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!268 0[268 111 190 189!190 189[112 268 0 268!0 268[-111 268 -189 189!-189 189[-267 111 -267 0!-267 0[-267 -111 -189 -190!-189 -190[-111 -268 0 -268!0 -268[112 -268 190 -190!190 -190[268 -111 268 0"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!268 0S2[268 111 190 189!190 189[112 268 0 268!0 268[-111 268 -189 189!-189 189[-267 111 -267 0!-267 0[-267 -111 -189 -190!-189 -190[-111 -268 0 -268!0 -268[112 -268 190 -190!190 -190[268 -111 268 0"/>
                   </edges>
                 </DOMShape>
               </elements>

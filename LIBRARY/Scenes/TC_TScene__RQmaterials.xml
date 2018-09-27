@@ -184,7 +184,7 @@
                     <DropShadowFilter blurX="15" blurY="15" color="#999999" distance="15" quality="2"/>
                   </filters>
                 </DOMSymbolInstance>
-                <DOMStaticText fontRenderingMode="standard" width="33.2" height="61.65" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="30.8" height="61.45" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix a="0.898284912109375" d="0.898284912109375" tx="497.5" ty="427.5"/>
                   </matrix>
@@ -192,7 +192,7 @@
                     <DOMTextRun>
                       <characters>0</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" lineHeight="61.65" size="55" bitmapSize="1100" face="PTMono-Bold" fillColor="#009966"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" lineHeight="61.45" size="55" bitmapSize="1100" face="PTMono-Bold" fillColor="#009966"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -210,7 +210,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" width="33.2" height="61.65" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="30.8" height="61.45" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix a="0.898284912109375" d="0.898284912109375" tx="542.4" ty="426.6"/>
                   </matrix>
@@ -218,12 +218,12 @@
                     <DOMTextRun>
                       <characters>0</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" lineHeight="61.65" size="55" bitmapSize="1100" face="PTMono-Bold" fillColor="#009966"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" lineHeight="61.45" size="55" bitmapSize="1100" face="PTMono-Bold" fillColor="#009966"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" width="33.2" height="61.65" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="30.8" height="61.45" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix a="0.898284912109375" d="0.898284912109375" tx="572.35" ty="426.6"/>
                   </matrix>
@@ -231,7 +231,7 @@
                     <DOMTextRun>
                       <characters>0</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" lineHeight="61.65" size="55" bitmapSize="1100" face="PTMono-Bold" fillColor="#009966"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" lineHeight="61.45" size="55" bitmapSize="1100" face="PTMono-Bold" fillColor="#009966"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -275,7 +275,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" width="9.2" height="16.85" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="6.2" height="16.8" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix a="0.898284912109375" d="0.898284912109375" tx="546.15" ty="471.75"/>
                   </matrix>
@@ -283,12 +283,12 @@
                     <DOMTextRun>
                       <characters>.</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" lineHeight="16.85" size="15" bitmapSize="300" face="PTMono-Bold"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" lineHeight="16.8" size="15" bitmapSize="300" face="PTMono-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" width="9.2" height="16.85" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="6.2" height="16.8" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix a="0.898284912109375" d="0.898284912109375" tx="550.6" ty="471.75"/>
                   </matrix>
@@ -296,7 +296,7 @@
                     <DOMTextRun>
                       <characters>/</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" lineHeight="16.85" size="15" bitmapSize="300" face="PTMono-Bold"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" lineHeight="16.8" size="15" bitmapSize="300" face="PTMono-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -314,7 +314,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" width="9.2" height="16.85" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="6.2" height="16.8" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix a="0.898284912109375" d="0.898284912109375" tx="567.4" ty="471.75"/>
                   </matrix>
@@ -322,7 +322,7 @@
                     <DOMTextRun>
                       <characters>.</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" lineHeight="16.85" size="15" bitmapSize="300" face="PTMono-Bold"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" lineHeight="16.8" size="15" bitmapSize="300" face="PTMono-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
