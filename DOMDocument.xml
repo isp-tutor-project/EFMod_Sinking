@@ -1,7 +1,7 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 115" majorVersion="18" buildNumber="115" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="F2D792AA7B4288761869248B9B716BF3">
      <folders>
           <DOMFolderItem name="____componentassets____" itemID="5ad28523-00000243"/>
-          <DOMFolderItem name="_HTMLControls" itemID="5b6f4063-000003e9" isExpanded="true"/>
+          <DOMFolderItem name="_HTMLControls" itemID="5b6f4063-000003e9"/>
           <DOMFolderItem name="_HTMLControls/TC_THtmlInput__Assets" itemID="5b5cd7d8-000002da"/>
           <DOMFolderItem name="_HTMLControls/TC_THtmlList__Assets" itemID="5b5cea4b-000003ab"/>
           <DOMFolderItem name="_HTMLControls/TC_THtmlTable__Assets" itemID="5b5f40d8-000002e3"/>
@@ -9,7 +9,7 @@
           <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets" itemID="5b68a267-00000548"/>
-          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e" isExpanded="true"/>
+          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e"/>
           <DOMFolderItem name="Assets/SinkingExperimentGraphics" itemID="5abd05fb-00000049"/>
           <DOMFolderItem name="Assets/SinkingExperimentGraphics/CylinderAssets" itemID="5b92bd51-00000c64"/>
           <DOMFolderItem name="Assets/SinkingExperimentGraphics/NoSaltWater-DistilledAssets" itemID="5abd0d0a-000001a4"/>
@@ -22,16 +22,16 @@
           <DOMFolderItem name="Assets/SinkingGraphics/Spheres" itemID="5afae7e5-000002c2" isExpanded="true"/>
           <DOMFolderItem name="Assets/SinkingGraphics/Spheres copy" itemID="5afaf4cd-000005ca"/>
           <DOMFolderItem name="Assets/SinkingGraphics/Spheres/Spheres copy" itemID="5afaf25c-000004ab" isExpanded="true"/>
-          <DOMFolderItem name="Components" itemID="5b92f439-00001cca" isExpanded="true"/>
-          <DOMFolderItem name="Components/Bead Assets" itemID="5ba7f020-00001f6a" isExpanded="true"/>
-          <DOMFolderItem name="Components/Bead Assets/TC_TObject__Shape Assets" itemID="5bb8f39f-0000175b" isExpanded="true"/>
+          <DOMFolderItem name="Components" itemID="5b92f439-00001cca"/>
+          <DOMFolderItem name="Components/Bead Assets" itemID="5ba7f020-00001f6a"/>
+          <DOMFolderItem name="Components/Bead Assets/TC_TObject__Shape Assets" itemID="5bb8f39f-0000175b"/>
           <DOMFolderItem name="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__Material Assets" itemID="5bb8f3fa-00001768"/>
           <DOMFolderItem name="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__Sphere Assets" itemID="5bb8f3bf-0000175f"/>
           <DOMFolderItem name="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__Tear Assets" itemID="5bb8f3d7-00001763"/>
-          <DOMFolderItem name="Components/Expt Assets" itemID="5ba90ab4-0000044b" isExpanded="true"/>
+          <DOMFolderItem name="Components/Expt Assets" itemID="5ba90ab4-0000044b"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
-          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
+          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0"/>
      </folders>
      <media>
           <DOMBitmapItem name="____componentassets____/TutorModule" itemID="5ad39ecb-000002ce" sourceLastImported="1512163249" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="____componentassets____/TutorModule.png" bitmapDataHRef="M 3 1523818176.dat" frameLeft="140" frameTop="1720" frameRight="780" frameBottom="2360"/>
