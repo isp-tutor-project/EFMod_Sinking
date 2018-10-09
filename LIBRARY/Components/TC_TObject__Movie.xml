@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Movie" itemID="5b95702e-00000b40" linkageExportForAS="true" linkageClassName="TC_TObject__Movie" lastModified="1537036772">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Movie" itemID="5b95702e-00000b40" linkageExportForAS="true" linkageClassName="TC_TObject__Movie" lastModified="1539019048">
   <timeline>
     <DOMTimeline name="TC_TObject__Movie" currentFrame="104">
       <layers>
@@ -167,7 +167,7 @@
           <frames>
             <DOMFrame index="0" duration="7" keyMode="9728">
               <elements>
-                <DOMStaticText fontRenderingMode="standard" left="14.15" width="55.3" height="21.25" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" left="14.15" width="55.3" height="21.65" isSelectable="false">
                   <matrix>
                     <Matrix tx="410.9" ty="304.7"/>
                   </matrix>

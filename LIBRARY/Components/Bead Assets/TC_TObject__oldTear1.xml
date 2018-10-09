@@ -1,17 +1,17 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Bead Assets/TC_TObject__Tear" itemID="5ba7e956-00001ece" lastModified="1537732022">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Bead Assets/TC_TObject__oldTear1" itemID="5bb7e90f-0000132b" lastModified="1538779407">
   <timeline>
-    <DOMTimeline name="TC_TObject__Tear">
+    <DOMTimeline name="TC_TObject__oldTear1">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__TearMaskBig" selected="true">
+                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__Tear Assets/TC_TObject__TearMaskLarge" selected="true">
                   <transformationPoint>
                     <Point x="216.05" y="216"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__TearMaskSmall" selected="true">
+                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__Tear Assets/TC_TObject__TearMaskSmall" selected="true">
                   <matrix>
                     <Matrix tx="216.05" ty="648.05"/>
                   </matrix>

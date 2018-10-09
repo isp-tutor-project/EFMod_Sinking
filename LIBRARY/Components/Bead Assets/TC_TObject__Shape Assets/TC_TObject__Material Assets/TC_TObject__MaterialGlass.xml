@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__Material Assets/TC_TObject__MaterialGlass" itemID="5bb7e8c5-00001328" lastModified="1538851524">
+  <timeline>
+    <DOMTimeline name="TC_TObject__MaterialGlass">
+      <layers>
+        <DOMLayer name="ScallOut" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar4" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__MatGlass">
+                  <matrix>
+                    <Matrix tx="8.1" ty="1.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="196.95" y="196.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

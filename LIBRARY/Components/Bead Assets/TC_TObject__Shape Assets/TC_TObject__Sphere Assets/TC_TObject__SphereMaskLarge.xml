@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Bead Assets/TC_TObject__CircleMaskBig" itemID="5ba7e445-00001e91" lastModified="1537729605">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__Sphere Assets/TC_TObject__SphereMaskLarge" itemID="5bb7e8db-00001329" lastModified="1538779355">
   <timeline>
-    <DOMTimeline name="TC_TObject__CircleMaskBig">
+    <DOMTimeline name="TC_TObject__SphereMaskLarge">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>

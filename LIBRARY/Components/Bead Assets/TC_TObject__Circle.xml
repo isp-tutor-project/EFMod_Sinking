@@ -6,12 +6,12 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__CircleMaskBig" selected="true">
+                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__Sphere Assets/TC_TObject__SphereLarge" selected="true">
                   <transformationPoint>
                     <Point x="216.05" y="216"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__CircleMaskSmall" selected="true">
+                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__Sphere Assets/TC_TObject__SphereSmall" selected="true">
                   <matrix>
                     <Matrix tx="216.05" ty="648.05"/>
                   </matrix>

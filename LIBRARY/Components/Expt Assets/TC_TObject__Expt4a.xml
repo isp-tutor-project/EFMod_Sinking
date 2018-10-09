@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt4a" itemID="5ba90ebf-00000615" lastModified="1537806015">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt4a" itemID="5ba90ebf-00000615" lastModified="1538779721">
   <timeline>
     <DOMTimeline name="TC_TObject__Expt4a">
       <layers>
@@ -6,15 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__lead" name="Svar4a" selected="true">
-                  <matrix>
-                    <Matrix a="0.217071533203125" d="0.217071533203125"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="205" y="421.05"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMDynamicText selected="true" fontRenderingMode="standard" left="156.1" width="111.75" height="24.6" isSelectable="false" lineType="multiline">
+                <DOMDynamicText fontRenderingMode="standard" left="156.1" width="111.75" height="24.6" isSelectable="false" lineType="multiline">
                   <matrix>
                     <Matrix tx="77.4" ty="35.65"/>
                   </matrix>
@@ -27,7 +19,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CalloutLong" selected="true">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CalloutLong">
                   <matrix>
                     <Matrix a="-1" d="-1" tx="221.5" ty="67"/>
                   </matrix>

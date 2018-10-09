@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__Material Assets/TC_TObject__MaterialLead" itemID="5bb7e8ba-00001327" lastModified="1538851504">
+  <timeline>
+    <DOMTimeline name="TC_TObject__MaterialLead">
+      <layers>
+        <DOMLayer name="Svar4" color="#00FFFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__MatLead" name="Svar4">
+                  <matrix>
+                    <Matrix tx="31.85" ty="35.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="201.1" y="201.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

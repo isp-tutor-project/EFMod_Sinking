@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__Sphere Assets/TC_TObject__SphereLarge" itemID="5bb7e88c-00001325" lastModified="1538851573">
+  <timeline>
+    <DOMTimeline name="TC_TObject__SphereLarge">
+      <layers>
+        <DOMLayer name="Svar3" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__Sphere Assets/TC_TObject__SphereMaskLarge" name="Svar3" symbolType="button">
+                  <transformationPoint>
+                    <Point x="216.05" y="216"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar4b" color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__Material Assets/TC_TObject__MaterialGlass" name="Svar4b">
+                  <matrix>
+                    <Matrix tx="-8.1" ty="31.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="205.05" y="198.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar4a" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__Material Assets/TC_TObject__MaterialLead" name="Svar4a">
+                  <matrix>
+                    <Matrix tx="-4.9" ty="-1.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="201.1" y="201.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

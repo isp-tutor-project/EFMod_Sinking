@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__LeadMaterial" selected="true">
+                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__Material Assets/TC_TObject__MaterialLead" selected="true">
                   <matrix>
                     <Matrix a="1.01976013183594" d="1.01976013183594" ty="432.05"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <Point x="201.15" y="201.15"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__LeadMaterial" selected="true">
+                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__Material Assets/TC_TObject__MaterialLead" selected="true">
                   <matrix>
                     <Matrix a="1.01976013183594" d="1.01976013183594"/>
                   </matrix>

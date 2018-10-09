@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Bead Assets/TC_TObject__GlassMaterial" itemID="5ba7e3b5-00001e86" lastModified="1537819955">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__MatGlass" itemID="5bb90019-000018e0" lastModified="1538850841">
   <timeline>
-    <DOMTimeline name="TC_TObject__GlassMaterial">
+    <DOMTimeline name="TC_TObject__MatGlass">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
@@ -11,7 +11,7 @@
                     <FillStyle index="1">
                       <RadialGradient>
                         <matrix>
-                          <Matrix a="0.34002685546875" d="0.34002685546875" tx="205" ty="198.25"/>
+                          <Matrix a="0.34002685546875" d="0.34002685546875" tx="196.9" ty="196.9"/>
                         </matrix>
                         <GradientEntry color="#0000FF" alpha="0.788235294117647" ratio="0"/>
                         <GradientEntry color="#F40B28" alpha="0.972549019607843" ratio="0.0745098039215686"/>
@@ -32,11 +32,11 @@
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!162 27|8041 27!8041 27|8041 7905!8041 7905|162 7905!162 7905|162 27"/>
-                    <Edge cubics="!162 27(;162,27 8041,27 8041,27q162 27 8041 27);"/>
-                    <Edge cubics="!8041 27(;8041,27 8041,7905 8041,7905q8041 27 8041 7905);"/>
-                    <Edge cubics="!8041 7905(;8041,7905 162,7905 162,7905q8041 7905 162 7905);"/>
-                    <Edge cubics="!162 7905(;162,7905 162,27 162,27q162 7905 162 27);"/>
+                    <Edge fillStyle1="1" edges="!0 0S2|7879 0!7879 0|7879 7878!7879 7878|0 7878!0 7878|0 0"/>
+                    <Edge cubics="!0 0(;0,0 7879,0 7879,0q0 0 7879 0);"/>
+                    <Edge cubics="!7879 0(;7879,0 7879,7878 7879,7878q7879 0 7879 7878);"/>
+                    <Edge cubics="!7879 7878(;7879,7878 0,7878 0,7878q7879 7878 0 7878);"/>
+                    <Edge cubics="!0 7878(;0,7878 0,0 0,0q0 7878 0 0);"/>
                   </edges>
                 </DOMShape>
               </elements>

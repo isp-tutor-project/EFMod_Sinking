@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Bead Assets/TC_TObject__TearMaskBig" itemID="5ba7e440-00001e90" lastModified="1537729646">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__Tear Assets/TC_TObject__TearMaskLarge" itemID="5bb7e7e9-00001323" lastModified="1538779113">
   <timeline>
-    <DOMTimeline name="TC_TObject__TearMaskBig">
+    <DOMTimeline name="TC_TObject__TearMaskLarge">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>

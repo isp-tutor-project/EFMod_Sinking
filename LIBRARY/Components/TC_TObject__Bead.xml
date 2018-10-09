@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Bead" itemID="5ba7efbb-00001f55" linkageExportForAS="true" linkageClassName="TC_TObject__Bead" lastModified="1537811382">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Bead" itemID="5ba7efbb-00001f55" linkageExportForAS="true" linkageClassName="TC_TObject__Bead" lastModified="1538776641">
   <timeline>
     <DOMTimeline name="TC_TObject__Bead">
       <layers>
@@ -48,7 +48,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__Tear" name="Svar2b">
+                <DOMSymbolInstance libraryItemName="Components/Bead Assets/TC_TObject__oldTear1" name="Svar2b">
                   <transformationPoint>
                     <Point x="216.05" y="432.05"/>
                   </transformationPoint>
