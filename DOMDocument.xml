@@ -22,7 +22,7 @@
           <DOMFolderItem name="Assets/SinkingGraphics/Spheres" itemID="5afae7e5-000002c2" isExpanded="true"/>
           <DOMFolderItem name="Assets/SinkingGraphics/Spheres copy" itemID="5afaf4cd-000005ca"/>
           <DOMFolderItem name="Assets/SinkingGraphics/Spheres/Spheres copy" itemID="5afaf25c-000004ab" isExpanded="true"/>
-          <DOMFolderItem name="Components" itemID="5b92f439-00001cca"/>
+          <DOMFolderItem name="Components" itemID="5b92f439-00001cca" isExpanded="true"/>
           <DOMFolderItem name="Components/Bead Assets" itemID="5ba7f020-00001f6a"/>
           <DOMFolderItem name="Components/Bead Assets/TC_TObject__Shape Assets" itemID="5bb8f39f-0000175b"/>
           <DOMFolderItem name="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__Material Assets" itemID="5bb8f3fa-00001768"/>
@@ -31,7 +31,7 @@
           <DOMFolderItem name="Components/Expt Assets" itemID="5ba90ab4-0000044b"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
-          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0"/>
+          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
      </folders>
      <media>
           <DOMBitmapItem name="____componentassets____/TutorModule" itemID="5ad39ecb-000002ce" sourceLastImported="1512163249" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="____componentassets____/TutorModule.png" bitmapDataHRef="M 3 1523818176.dat" frameLeft="140" frameTop="1720" frameRight="780" frameBottom="2360"/>
@@ -102,9 +102,11 @@
           <Include href="Assets/SinkingGraphics/TC_TObject__Ballmiddle.xml" loadImmediate="false" itemID="5b9d5351-000015ea" lastModified="1537037137"/>
           <Include href="Assets/SinkingGraphics/TC_TObject__DroppingBall.xml" loadImmediate="false" itemID="5afae9a9-000002d2" lastModified="1526393257"/>
           <Include href="Assets/SinkingGraphics/WaterCombinedMaterials.xml" loadImmediate="false" itemID="5afaf32b-000004b3" lastModified="1526395691"/>
+          <Include href="Assets/TC_TObject__ArrowHead.xml" loadImmediate="false" itemID="5bb9152b-00001b54" lastModified="1538856261"/>
           <Include href="Assets/TC_TObject__freshwaterCylinder.xml" loadImmediate="false" itemID="5ba169a8-00001fb7" lastModified="1537305000"/>
           <Include href="Assets/TC_TObject__saltwaterCylinder.xml" loadImmediate="false" itemID="5ba169a1-00001fb6" lastModified="1537804935"/>
           <Include href="Assets/TC_TText__letsseehow.xml" loadImmediate="false" itemID="5ba29c83-00000762" lastModified="1537383555"/>
+          <Include href="Assets/TC_TVirtual__ExptRgn.xml" loadImmediate="false" itemID="5bba434c-000022eb" lastModified="1538933580"/>
           <Include href="Components/Bead Assets/TC_TObject__BigSmall.xml" loadImmediate="false" itemID="5ba7e844-00001eba" lastModified="1537731999"/>
           <Include href="Components/Bead Assets/TC_TObject__Circle.xml" loadImmediate="false" itemID="5ba7e94b-00001ec8" lastModified="1537732004"/>
           <Include href="Components/Bead Assets/TC_TObject__Glass.xml" loadImmediate="false" itemID="5ba7e8f4-00001ec3" lastModified="1537819926"/>
@@ -165,8 +167,6 @@
           <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b9585d5-00000eda" lastModified="1537304982"/>
           <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b957024-00000b3f" lastModified="1537382639"/>
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
-          <Include href="TC_TObject__ArrowHead.xml" loadImmediate="false" itemID="5bb9152b-00001b54" lastModified="1538856261"/>
-          <Include href="TC_TVirtual__ExptRgn.xml" loadImmediate="false" itemID="5bba434c-000022eb" lastModified="1538933580"/>
      </symbols>
      <timelines>
           <DOMTimeline name="Scene 1">

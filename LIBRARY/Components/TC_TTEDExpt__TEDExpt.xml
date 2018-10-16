@@ -95,14 +95,8 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="10" ty="-14.9"/>
-                  </matrix>
                   <members>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="10" ty="-14.9"/>
-                      </matrix>
                       <members>
                         <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CallOutHighlight" name="Shighlight1" selected="true">
                           <matrix>
@@ -147,14 +141,8 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="10" ty="-14.9"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="10" ty="-14.9"/>
-                      </matrix>
                       <members>
                         <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CallOutHighlight" name="Shighlight2" selected="true">
                           <matrix>
@@ -199,14 +187,8 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="10" ty="-14.9"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="10" ty="-14.9"/>
-                      </matrix>
                       <members>
                         <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CallOutHighlight" name="Shighlight3" selected="true">
                           <matrix>
@@ -290,7 +272,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="TC_TVirtual__ExptRgn" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TVirtual__ExptRgn">
                   <matrix>
                     <Matrix tx="-1" ty="-0.95"/>
                   </matrix>
