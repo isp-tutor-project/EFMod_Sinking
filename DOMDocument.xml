@@ -29,7 +29,7 @@
           <DOMFolderItem name="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__Sphere Assets" itemID="5bb8f3bf-0000175f"/>
           <DOMFolderItem name="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__Tear Assets" itemID="5bb8f3d7-00001763"/>
           <DOMFolderItem name="Components/Expt Assets" itemID="5ba90ab4-0000044b"/>
-          <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
+          <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f" isExpanded="true"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
           <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
      </folders>
@@ -142,7 +142,7 @@
           <Include href="Components/TC_TObject__Bead.xml" itemID="5ba7efbb-00001f55" lastModified="1538776641"/>
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b95702e-00000b40" lastModified="1540311177"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b957032-00000b41" lastModified="1537036774"/>
-          <Include href="Components/TC_TObject__Vars.xml" itemID="5b957037-00000b42" lastModified="1537732219"/>
+          <Include href="Components/TC_TObject__Vars.xml" itemID="5b957037-00000b42" lastModified="1540311782"/>
           <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb9125-00002ec1" lastModified="1539019053"/>
           <Include href="Exports/TL_Sinking__Movie.xml" loadImmediate="false" itemID="5b95703c-00000b43" lastModified="1536520252"/>
           <Include href="Exports/TL_Sinking__RQintro1.xml" loadImmediate="false" itemID="5b95881e-00000fa0" lastModified="1536526366"/>
@@ -156,7 +156,7 @@
           <Include href="Exports/TL_Sinking__RQvariables.xml" loadImmediate="false" itemID="5b958828-00000fa3" lastModified="1536526376"/>
           <Include href="Exports/TL_Sinking__Topic.xml" loadImmediate="false" itemID="5b957041-00000b44" lastModified="1536520257"/>
           <Include href="Exports/TL_Sinking__Vars.xml" loadImmediate="false" itemID="5b957046-00000b45" lastModified="1536520262"/>
-          <Include href="Scenes/TC_TScene__RQenumVars.xml" itemID="5b9e967a-000008c4" lastModified="1537121710"/>
+          <Include href="Scenes/TC_TScene__RQenumVars.xml" itemID="5b9e967a-000008c4" lastModified="1540311805"/>
           <Include href="Scenes/TC_TScene__RQintro1.xml" itemID="5ba29bc1-0000075a" lastModified="1537383734"/>
           <Include href="Scenes/TC_TScene__RQintro2.xml" itemID="5ba29bc4-0000075b" lastModified="1537720597"/>
           <Include href="Scenes/TC_TScene__RQintro3.xml" itemID="5ba29bc6-0000075c" lastModified="1537720619"/>

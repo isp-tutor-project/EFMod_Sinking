@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQenumVars" itemID="5b9e967a-000008c4" linkageExportForAS="true" linkageClassName="TC_TScene__RQenumVars" lastModified="1537121710">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQenumVars" itemID="5b9e967a-000008c4" linkageExportForAS="true" linkageClassName="TC_TScene__RQenumVars" lastModified="1540311805">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
@@ -33,9 +33,9 @@
                     <Point x="50.3" y="50"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/TC_TObject__Vars" name="Sicon1" selected="true">
+                <DOMSymbolInstance libraryItemName="Components/TC_TObject__Vars" name="Sicon1">
                   <matrix>
-                    <Matrix a="0.575271606445313" d="0.575271606445313" tx="694" ty="727.2"/>
+                    <Matrix a="0.575271606445313" d="0.575271606445313" tx="748" ty="727.2"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-244.25" y="-140.1"/>
@@ -43,7 +43,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Components/TC_TObject__Vars" name="Sicon2">
                   <matrix>
-                    <Matrix a="0.575271606445313" d="0.575271606445313" tx="1513.5" ty="727.2"/>
+                    <Matrix a="0.575271606445313" d="0.575271606445313" tx="1567.5" ty="727.2"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-244.25" y="-140.1"/>
