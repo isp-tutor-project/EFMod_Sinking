@@ -1,11 +1,11 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQmovie" itemID="5b9585d5-00000eda" linkageExportForAS="true" linkageClassName="TC_TScene__RQmovie" lastModified="1537304982">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQmovie" itemID="5b9585d5-00000eda" linkageExportForAS="true" linkageClassName="TC_TScene__RQmovie" lastModified="1540311130">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
   <timeline>
     <DOMTimeline name="TC_TScene__RQmovie">
       <layers>
-        <DOMLayer name="Layer_3" color="#FF800A" current="true" isSelected="true">
+        <DOMLayer name="Layer_3" color="#FF800A" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -21,11 +21,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer_2" color="#9933CC">
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/TC_TObject__Movie" name="Smovie">
+                <DOMSymbolInstance libraryItemName="Components/TC_TObject__Movie" name="Smovie" selected="true">
                   <matrix>
                     <Matrix a="2.62493896484375" d="2.62498474121094" tx="87.45" ty="19.8"/>
                   </matrix>
@@ -37,7 +37,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer_1" color="#00FFFF" outline="true" useOutlineView="true">
+        <DOMLayer name="Layer_1" color="#00FFFF" outline="true" useOutlineView="true" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

@@ -140,7 +140,7 @@
           <Include href="Components/Expt Assets/TC_TObject__Expt4b.xml" loadImmediate="false" itemID="5ba90ec8-0000061f" lastModified="1537812232"/>
           <Include href="Components/Expt Assets/TC_TObject__Highlight.xml" loadImmediate="false" itemID="5ba91b96-00000878" lastModified="1538847944"/>
           <Include href="Components/TC_TObject__Bead.xml" itemID="5ba7efbb-00001f55" lastModified="1538776641"/>
-          <Include href="Components/TC_TObject__Movie.xml" itemID="5b95702e-00000b40" lastModified="1539019048"/>
+          <Include href="Components/TC_TObject__Movie.xml" itemID="5b95702e-00000b40" lastModified="1540311177"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b957032-00000b41" lastModified="1537036774"/>
           <Include href="Components/TC_TObject__Vars.xml" itemID="5b957037-00000b42" lastModified="1537732219"/>
           <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb9125-00002ec1" lastModified="1539019053"/>
@@ -164,7 +164,7 @@
           <Include href="Scenes/TC_TScene__RQintro5.xml" itemID="5ba3b797-00000433" lastModified="1537544145"/>
           <Include href="Scenes/TC_TScene__RQintro6.xml" itemID="5ba3b79d-00000434" lastModified="1537544148"/>
           <Include href="Scenes/TC_TScene__RQmaterials.xml" itemID="5b95701c-00000b3e" lastModified="1537048420"/>
-          <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b9585d5-00000eda" lastModified="1537304982"/>
+          <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b9585d5-00000eda" lastModified="1540311130"/>
           <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b957024-00000b3f" lastModified="1537382639"/>
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
      </symbols>

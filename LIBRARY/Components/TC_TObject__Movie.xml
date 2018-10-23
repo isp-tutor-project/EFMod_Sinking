@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Movie" itemID="5b95702e-00000b40" linkageExportForAS="true" linkageClassName="TC_TObject__Movie" lastModified="1539019048">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Movie" itemID="5b95702e-00000b40" linkageExportForAS="true" linkageClassName="TC_TObject__Movie" lastModified="1540311177">
   <timeline>
-    <DOMTimeline name="TC_TObject__Movie" currentFrame="104">
+    <DOMTimeline name="TC_TObject__Movie" currentFrame="74">
       <layers>
         <DOMLayer name="STOP" color="#FF4FFF" locked="true" autoNamed="false">
           <frames>
@@ -17,7 +17,7 @@
         </DOMLayer>
         <DOMLayer name="rimofcylinder" color="#00FFFF" locked="true" autoNamed="false">
           <frames>
-            <DOMFrame index="0" duration="293" keyMode="9728">
+            <DOMFrame index="0" duration="75" keyMode="9728">
               <elements>
                 <DOMShape>
                   <strokes>
@@ -144,7 +144,7 @@
                 </DOMStaticText>
               </elements>
             </DOMFrame>
-            <DOMFrame index="60" duration="231" keyMode="9728">
+            <DOMFrame index="60" duration="15" keyMode="9728">
               <elements>
                 <DOMStaticText selected="true" fontRenderingMode="standard" width="30.65" height="21.25" isSelectable="false">
                   <matrix>
@@ -163,7 +163,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="time" color="#FF800A" locked="true" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="time" color="#FF800A" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" duration="7" keyMode="9728">
               <elements>
@@ -1157,7 +1157,7 @@
                 </DOMStaticText>
               </elements>
             </DOMFrame>
-            <DOMFrame index="64" duration="227" keyMode="9728">
+            <DOMFrame index="64" duration="11" keyMode="9728">
               <elements>
                 <DOMStaticText fontRenderingMode="standard" left="30.45" width="45" height="21.25" isSelectable="false">
                   <matrix>
@@ -1178,7 +1178,7 @@
         </DOMLayer>
         <DOMLayer name="timestamps" color="#9933CC" locked="true" autoNamed="false">
           <frames>
-            <DOMFrame index="0" duration="291" keyMode="9728">
+            <DOMFrame index="0" duration="75" keyMode="9728">
               <elements>
                 <DOMStaticText fontRenderingMode="standard" width="67.3" height="8.9" autoExpand="true" isSelectable="false">
                   <matrix>
@@ -1203,9 +1203,9 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="stopwatch" color="#9933CC" locked="true" autoNamed="false">
+        <DOMLayer name="stopwatch" color="#9933CC" locked="true" current="true" isSelected="true" autoNamed="false">
           <frames>
-            <DOMFrame index="0" duration="291" keyMode="9728">
+            <DOMFrame index="0" duration="75" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/Cclock">
                   <matrix>
@@ -1227,7 +1227,7 @@
             <DOMFrame index="1" duration="4" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="5" duration="286" keyMode="9728">
+            <DOMFrame index="5" duration="70" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/handforstopwatch">
                   <matrix>
@@ -1259,7 +1259,7 @@
         </DOMLayer>
         <DOMLayer name="cylinder" color="#FF4FFF" locked="true" autoNamed="false">
           <frames>
-            <DOMFrame index="0" duration="286" keyMode="9728">
+            <DOMFrame index="0" duration="75" keyMode="9728">
               <elements>
                 <DOMShape>
                   <fills>
@@ -1375,8 +1375,8 @@
         </DOMLayer>
         <DOMLayer name="sphere" color="#FF4F4F" locked="true" autoNamed="false" animationType="motion object">
           <frames>
-            <DOMFrame index="0" duration="291" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="4194303" keyMode="8195">
-              <motionObjectXML><AnimationCore TimeScale="24000" Version="1" duration="291000"><TimeMap strength="0" type="Quadratic"/><TimeMap strength="3" type="DampedWave"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.498575" xformPtYOffsetPct="0.5" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property TimeMapIndex="1" enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="1000"/><Keyframe anchor="0,0" next="8555,0" previous="-1717,0" roving="0" timevalue="4000"/><Keyframe anchor="0,-1.4" next="0,-1.4" previous="0,-1.4" roving="0" timevalue="64000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="1000"/><Keyframe anchor="0,24.1014" next="8555,24.1014" previous="-1717,24.1014" roving="0" timevalue="4000"/><Keyframe anchor="0,262.7" next="0,262.7" previous="0,262.7" roving="0" timevalue="64000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="1000"/></Property><Property enabled="1" id="Depth" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="1000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="1000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="1000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="1000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="1000"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+            <DOMFrame index="0" duration="75" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="4194303" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="24000" Version="1" duration="75000"><TimeMap strength="0" type="Quadratic"/><TimeMap strength="3" type="DampedWave"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.498575" xformPtYOffsetPct="0.5" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property TimeMapIndex="1" enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="1000"/><Keyframe anchor="0,0" next="8555,0" previous="-1717,0" roving="0" timevalue="4000"/><Keyframe anchor="0,-1.4" next="0,-1.4" previous="0,-1.4" roving="0" timevalue="64000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="1000"/><Keyframe anchor="0,24.1014" next="8555,24.1014" previous="-1717,24.1014" roving="0" timevalue="4000"/><Keyframe anchor="0,262.7" next="0,262.7" previous="0,262.7" roving="0" timevalue="64000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="1000"/></Property><Property enabled="1" id="Depth" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="1000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="1000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="1000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="1000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="1000"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
               <elements>
                 <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/Spheres copy/SmallSphere_Glass">
                   <matrix>
@@ -1392,7 +1392,7 @@
         </DOMLayer>
         <DOMLayer name="cylinderbase" color="#00FFFF" locked="true" autoNamed="false">
           <frames>
-            <DOMFrame index="0" duration="291" keyMode="9728">
+            <DOMFrame index="0" duration="75" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="Assets/SinkingGraphics/CylinderAssets/Cylinderbaseback">
                   <matrix>
