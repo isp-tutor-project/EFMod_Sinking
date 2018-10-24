@@ -29,7 +29,7 @@
           <DOMFolderItem name="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__Sphere Assets" itemID="5bb8f3bf-0000175f"/>
           <DOMFolderItem name="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__Tear Assets" itemID="5bb8f3d7-00001763"/>
           <DOMFolderItem name="Components/Expt Assets" itemID="5ba90ab4-0000044b"/>
-          <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f" isExpanded="true"/>
+          <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
           <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
      </folders>
@@ -45,7 +45,7 @@
           <Include href="_HTMLControls/TC_THtmlTable__Assets/tablearea.xml" loadImmediate="false" itemID="5b5f40c1-000002dc" lastModified="1533050778"/>
           <Include href="_HTMLControls/TC_THtmlTable__Table1.xml" loadImmediate="false" itemID="5b5f91bf-00000347" lastModified="1534019420"/>
           <Include href="_HTMLControls/TC_THtmlText__Assets/TextArea.xml" loadImmediate="false" itemID="5b59ef22-00000313" lastModified="1533575923"/>
-          <Include href="_HTMLControls/TC_THtmlText__CallOutText.xml" loadImmediate="false" itemID="5bb8f667-00001782" lastModified="1538856249"/>
+          <Include href="_HTMLControls/TC_THtmlText__CallOutText.xml" loadImmediate="false" itemID="5bb8f667-00001782" lastModified="1540328048"/>
           <Include href="_HTMLControls/TC_THtmlText__Text1.xml" loadImmediate="false" itemID="5b5f91c5-00000348" lastModified="1533575928"/>
           <Include href="_Tutor Global Assets_/NavPanel Components/contentFrame.xml" loadImmediate="false" itemID="5b8db279-000005f6" lastModified="1536012921"/>
           <Include href="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets/playButtonTop.xml" loadImmediate="false" itemID="5b9e99fb-00000b68" lastModified="1537120902"/>
@@ -128,7 +128,7 @@
           <Include href="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject__Tear Assets/TC_TObject__TearSmall.xml" loadImmediate="false" itemID="5bb7e959-000013d8" lastModified="1538929434"/>
           <Include href="Components/Bead Assets/TC_TObject__Shape Assets/TC_TObject_CallOutBar.xml" loadImmediate="false" itemID="5bb8f6c2-00001824" lastModified="1538848450"/>
           <Include href="Components/Expt Assets/TC_TObject__Callout.xml" loadImmediate="false" itemID="5ba81883-00002275" lastModified="1537742979"/>
-          <Include href="Components/Expt Assets/TC_TObject__CallOutHighlight.xml" loadImmediate="false" itemID="5bba22b3-00001c05" lastModified="1538925235"/>
+          <Include href="Components/Expt Assets/TC_TObject__CallOutHighlight.xml" loadImmediate="false" itemID="5bba22b3-00001c05" lastModified="1540328122"/>
           <Include href="Components/Expt Assets/TC_TObject__CalloutLong.xml" loadImmediate="false" itemID="5ba81901-0000227e" lastModified="1537743138"/>
           <Include href="Components/Expt Assets/TC_TObject__Expt1a.xml" loadImmediate="false" itemID="5ba90e71-000005c1" lastModified="1538851812"/>
           <Include href="Components/Expt Assets/TC_TObject__Expt1b.xml" loadImmediate="false" itemID="5ba90e7c-000005d7" lastModified="1538851821"/>
@@ -143,7 +143,7 @@
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b95702e-00000b40" lastModified="1540311177"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b957032-00000b41" lastModified="1537036774"/>
           <Include href="Components/TC_TObject__Vars.xml" itemID="5b957037-00000b42" lastModified="1540311782"/>
-          <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb9125-00002ec1" lastModified="1539019053"/>
+          <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb9125-00002ec1" lastModified="1540328129"/>
           <Include href="Exports/TL_Sinking__Movie.xml" loadImmediate="false" itemID="5b95703c-00000b43" lastModified="1536520252"/>
           <Include href="Exports/TL_Sinking__RQintro1.xml" loadImmediate="false" itemID="5b95881e-00000fa0" lastModified="1536526366"/>
           <Include href="Exports/TL_Sinking__RQintro2.xml" loadImmediate="false" itemID="5b95882e-00000fa9" lastModified="1536526382"/>
